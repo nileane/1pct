@@ -41,17 +41,5 @@
           <p>Un Podcast Trans est une conversation entre personnes trans destinées aux personnes trans. Si vous découvrez la transidentité : <a href="https://wikitrans.co/intro/">Les bases à connaître sur la transidentité en 5mn</a></p>
         </footer>
     </section>
-
-    <script>
-      if (window.netlifyIdentity) {
-        window.netlifyIdentity.on("init", user => {
-          if (!user) {
-            window.netlifyIdentity.on("login", () => {
-              document.location.href = "/admin/";
-            });
-          }
-        });
-      }
-    </script>
   </body>
 </html>
