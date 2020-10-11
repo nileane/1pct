@@ -2,33 +2,19 @@ require 'rubygems'
 require 'optparse'
 require 'yaml'
 
-task :post do
-  OptionParser.new.parse!
-  ARGV.shift
-  title = ARGV.join(' ')
-
-  path = "_posts/#{Date.today}-#{title.downcase.gsub(/[^[:alnum:]]+/, '-')}.markdown"
-  
-  if File.exist?(path)
-   puts "[WARN] File exists - skipping create"
-  else
-    File.open(path, "w") do |file|
-      file.puts YAML.dump({'layout' => 'post', 'published' => false, 'headimg_url' => '', 'headimg_lic' => '', 'headimg_lic_url' => '', 'title' => title})
-      file.puts "---"
-    end
-  end
-  
-  exit 1
-end
-
 task :build do
    desc "runs jekyll to generate _site/"
    system "bundle exec jekyll build"
 end
 
+task :setupdeploy do
+   desc "adds the remote that autodeploys on lly.fr"
+   system "git remote add deploy nileane@lly.fr:~/1pct-deploy"
+end
+
 task :deploy do
    desc "runs git to pull new code & jekyll to generate _site/"
-   system "git pull && bundle exec jekyll build"
+   system "git push origin master && git push deploy master"
 end
 
 task :serve do
