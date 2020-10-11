@@ -6,6 +6,7 @@ url: https://1pct.fr
 author: Niléane Dorffer
 description: On bavarde, on se redécouvre, et puis on est trans ✨
 title: Un Podcast Trans
+twitter_username: unpodcasttrans
 
 permalink: /:year/:month/:day/:title.html
 markdown: kramdown

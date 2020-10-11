@@ -4,7 +4,7 @@ type: pages
 layout: home
 permalink: /
 ---
-![Couverture du Podcast](/images/Variante 3B.png){: class="align right avatar"}
+![Couverture du Podcast](/images/Cover.png){: class="align right avatar"}
 ### On bavarde, on se redécouvre, et puis on est trans ✨
 Nos vies ne tournent pas toujours autour de nos transidentités, ce podcast non plus : nous discutons de nos activités, de nos passions, et parfois du fait qu'on est trans :D
 
