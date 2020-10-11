@@ -1,4 +1,4 @@
-# Source for Nileane.fr
+# Source for 1pct.fr
 ## Powered by GitHub Pages and Jekyll
 
 To build, make sure you have Bundler installed:
@@ -8,7 +8,7 @@ gem install bundler
 
 Install needed dependencies:
 ```
-cd nileane.fr/
+cd 1pct.fr/
 bundle install
 ```
 
