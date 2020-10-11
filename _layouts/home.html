@@ -1,0 +1,27 @@
+---
+layout: default
+home-post: "true"
+---
+<section class="introducing">
+    <div class="post">
+        {{ content }}
+    </div>
+</section>
+
+{% unless layout.home-post == "false" %}
+{% for post in site.posts %}
+<section class="archive-post">
+    <a href="{{ post.url }}">
+    <div class="index">
+        <div>
+            <div class="episode-num">Épisode #{{ post.episode }}</div>
+            <h2>{{ post.title | replace: '<br>', '' }}</h2>
+            <time datetime='{{ post.date | date_to_xmlschema }}'><span style="font-weight:bold"></span> {% include date.html date=post.date %}</time>
+        </div>
+        <div class="excerpt">{{ post.excerpt | strip_html }}
+        <strong style="color: #ff706b;">···</strong></div>
+    </div>
+    </a>
+</section>
+{% endfor %}
+{% endunless %}

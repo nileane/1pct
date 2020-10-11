@@ -1,0 +1,19 @@
+---
+layout: default
+---
+{% for post in site.posts %}
+    {% unless post.type == "pages" %}
+    <section class="archive-post">
+        <a href="{{ post.url }}">
+        <div class="index">
+            <div>
+                <h2>{{ post.title | replace: '<br>', '' }}</h2>
+                <time datetime='{{ post.date | date_to_xmlschema }}'>{% include date.html date=post.date %}</time>
+            </div>
+            <div class="excerpt">{{ post.excerpt | strip_html }}
+            <strong style="color: #ff706b;">···</strong></div>
+        </div>
+        </a>
+    </section>
+    {% endunless %}
+{% endfor %}

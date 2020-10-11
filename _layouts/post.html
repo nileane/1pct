@@ -1,0 +1,23 @@
+---
+layout: default
+---
+<section>
+    <div class="post">
+        {% if page.headimg_url %}
+        <figure class="classic_headimg">
+            <img src="{{ page.headimg_url }}">
+        </figure>
+        {% endif %}
+
+        {% if page.anchor %}
+        <a href="{{ page.anchor }}" class="button">▶️ Écouter sur Anchor et +</a>
+        {% endif %}
+        {% if page.file %}
+        <a href="{{ page.file }}" class="button gray">⤵️ Télécharger</a>
+
+        <audio controls=""><source src="{{ page.file }}" type="audio/mpeg"></audio>  
+        {% endif %}
+
+        {{ content }}
+    </div>
+</section>

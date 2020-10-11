@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang }}">
+  <head>
+      {% include head.html %}
+  </head>
+
+  <body {% if page.layout %}class="{{ page.layout }}"{% endif %}>
+
+    <nav>
+        <div class="menu">
+          <span class="menu-items">
+          {% for link in site.data.presences %}
+            <a href="{{ link.url }}" title="{{ link.title }}"><span class="icon-{{ link.icon }}"></span></a>
+          {% endfor %}
+          </span>
+        </div>
+        {% unless page.layout == "home" or page.layout == "archive" or page.layout == "about" %}
+        <a href="/" id="signature-link"><img src="/images/Logo.png" alt="Un Podcast Trans" id="signature"></a>
+        {% endunless %}
+    </nav>
+
+    <header>
+        <div class="book-title">
+            {% if page.layout == "home" or page.layout == "archive" or page.layout == "about" %}
+                <h1><a href="/"><img src="/images/Logo.png" alt="Un Podcast Trans"></a></h1>
+            {% else %}
+                <div class="episode-num">Épisode #{{ page.episode }}</div>
+                <h1>{{ page.title }}</h1>
+                <small><time datetime='{{ page.date | date_to_xmlschema }}' class="top">{% include date.html date=page.date %}</time></small>
+            {% endif %}
+        </div>
+    </header>
+
+    {{ content }}
+
+    <section class="faded">
+        <footer>
+          <strong>2020 &middot; Un Podcast Trans<br>
+          Niléane, Malley, Jena, Tiphaine & Cat</strong>
+
+          <p>Un Podcast Trans est une conversation entre personnes trans destinées aux personnes trans. Si vous découvrez la transidentité : <a href="https://wikitrans.co/intro/">Les bases à connaître sur la transidentité en 5mn</a></p>
+        </footer>
+    </section>
+  </body>
+</html>

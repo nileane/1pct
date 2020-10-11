@@ -1,0 +1,34 @@
+---
+layout: post
+published: true
+title: "Tailles"
+episode: "1"
+summary: "Jeux vidéo, LSF, quelques archives et ExisTransInter 2020"
+permalink: "/1"
+---
+<p>On commente des archives de l'émission Bistouri Oui Oui, on discute de l'initiative de la Caisse de Solidarité Trans Inter, et puis de la forme particulière d'ExisTransInter en 2020.</p>
+
+<!--more-->
+
+<p><strong>Note : </strong>Nous avons eu des soucis avec le micro de Jena, qui génère un peu de bruit de fond malgré le montage. Un Podcast Trans est pour nous tou-te-s un challenge technique et d'exercice, avec un peu de force la qualité sera meilleure avec chaque nouvel épisode :D</p>
+<p><strong>Liens et ressources mentionnées</strong></p>
+<ul>
+  <li><a href="https://music.emilevankrieken.com/album/the-aether-ii-original-soundtrack">Emile van Krieken (The Aether II Original Soundtrack)</a></li>
+  <li><a href="https://dico.elix-lsf.fr/dictionnaire/transsexuel/adj.-222855">'Transsexuel' en LSF sur Le Dico Elix</a></li>
+  <li><a href="https://csti-lyon.fr/">Caisse de Solidarité Trans Inter</a> (<a href="https://twitter.com/sotransinter?s=21">Twitter</a>)</li>
+  <li><a href="https://existrans.org/">ExisTransInter 2020</a> (<a href="https://twitter.com/existransinter?s=21">Twitter</a>)</li>
+  <li><a href="https://twitter.com/existransinter/status/1314302349712805889?s=21">Communiqué concernant l'ExisTransInter 2020</a></li>
+</ul>
+<p><strong>Chapitres</strong></p>
+<ul>
+  <li>00:00:00: Intro, Jeux vidéo et Cinéma</li>
+  <li>00:21:03: Musique : Moa’s Song - Emile van Krieken</li>
+  <li>00:23:47: Tiphaine et la LSF</li>
+  <li>00:36:55: Archives : redécouvrir Bistouri Oui Oui</li>
+  <li>00:39:25: Tom Reucher et l’Existrans</li>
+  <li>00:48:26: Stéphanie Michelini</li>
+  <li>00:58:46: Caisse de Solidarité Trans Inter</li>
+  <li>01:03:29: ExisTransInter 2020</li>
+  <li>01:05:05: Conclusion</li>
+  <li>01:10:40: Chat à molette</li>
+</ul>

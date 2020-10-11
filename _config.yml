@@ -1,0 +1,16 @@
+## Configuration file
+
+name: Un Podcast Trans
+url: https://1pct.fr
+
+author: Niléane Dorffer
+description: Un Podcast Trans !
+title: Un Podcast Trans
+
+permalink: /:year/:month/:day/:title.html
+markdown: kramdown
+
+excerpt_separator: <!--more-->
+
+plugins:
+  - jekyll-feed
