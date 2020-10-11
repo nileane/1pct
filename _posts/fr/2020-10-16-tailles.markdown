@@ -4,7 +4,7 @@ published: true
 title: "Tailles"
 episode: "1"
 summary: "Jeux vidéo, LSF, quelques archives et ExisTransInter 2020"
-permalink: "/1"
+permalink: /1
 ---
 <p>On commente des archives de l'émission Bistouri Oui Oui, on discute de l'initiative de la Caisse de Solidarité Trans Inter, et puis de la forme particulière d'ExisTransInter en 2020.</p>
 
