@@ -13,8 +13,8 @@ task :setupdeploy do
 end
 
 task :deploy do
-   desc "runs git to pull new code & jekyll to generate _site/"
-   system "git push origin master && git push deploy master"
+   desc "deploys @ nileane@lly.fr:~/1pct-deploy"
+   system "git push deploy master"
 end
 
 task :serve do
