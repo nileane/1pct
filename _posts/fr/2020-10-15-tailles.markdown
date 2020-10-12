@@ -8,20 +8,20 @@ permalink: /1/
 ---
 <p>On commente des archives de l'émission Bistouri Oui Oui, on discute de l'initiative de la Caisse de Solidarité Trans Inter, et puis de la forme particulière d'ExisTransInter en 2020.<br>
 </p>
-<!-- more -->
+
+<!--more-->
+
 <p><strong>Note : </strong>Nous avons eu des soucis avec le micro de Jena, qui génère beaucoup de bruit de fond malgré le montage. Un Podcast Trans est pour nous tou-te-s un challenge technique et d'exercice, avec un peu de force la qualité sera meilleure avec chaque nouvel épisode :D</p>
-<p><br></p>
 <p><strong>Liens et ressources mentionnées</strong></p>
 <ul>
-  <li><a href="https://cause-commune.fm/shows/over-game/"><strong>Over Game sur Cause Commune - Paris 93.1FM&nbsp;</strong></a></li>
-  <li><a href="http://lacolonieduweb.fr/2020/09/07/cinema-all-together-now-2020-les-riches-ces-genereux-sauveurs/"><strong>‘All Together Now’ (2020) — les riches, ces généreux sauveurs.</strong></a></li>
+  <li><a href="https://cause-commune.fm/shows/over-game/">Over Game sur Cause Commune - Paris 93.1FM&nbsp;</a></li>
+  <li><a href="http://lacolonieduweb.fr/2020/09/07/cinema-all-together-now-2020-les-riches-ces-genereux-sauveurs/">‘All Together Now’ (2020) — les riches, ces généreux sauveurs.</a></li>
   <li><a href="https://music.emilevankrieken.com/album/the-aether-ii-original-soundtrack">Emile van Krieken (The Aether II Original Soundtrack)</a></li>
   <li><a href="https://dico.elix-lsf.fr/dictionnaire/transsexuel/adj.-222855">'Transsexuel' en LSF sur Le Dico Elix</a></li>
   <li><a href="https://csti-lyon.fr/">Caisse de Solidarité Trans Inter</a> (<a href="https://twitter.com/sotransinter?s=21">Twitter</a>)</li>
   <li><a href="https://existrans.org/">ExisTransInter 2020</a> (<a href="https://twitter.com/existransinter?s=21">Twitter</a>)</li>
   <li><a href="https://twitter.com/existransinter/status/1314302349712805889?s=21">Communiqué concernant l'ExisTransInter 2020</a></li>
 </ul>
-<p><br></p>
 <p><strong>Chapitres</strong></p>
 <ul>
   <li><strong>00:00:00 - </strong>Intro, Jeux vidéo et Cinéma</li>
@@ -35,5 +35,3 @@ permalink: /1/
   <li><strong>01:05:05 -</strong> Conclusion</li>
   <li><strong>01:10:40 -</strong> Chat à molette</li>
 </ul>
-<p><br></p>
-<p><em>Un Podcast Trans est une conversation entre personnes trans. Si vous découvrez la transidentité : </em><a href="https://wikitrans.co/intro/"><em>Les bases à connaître sur la transidentité en 5mn</em></a></p>
