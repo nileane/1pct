@@ -24,7 +24,12 @@
             {% if page.layout == "home" or page.layout == "archive" or page.layout == "about" %}
                 <h1><a href="/"><img src="/images/Logo.png" alt="Un Podcast Trans"></a></h1>
             {% else %}
-                <div class="episode-num">Épisode #{{ page.episode }}</div>
+                {% if page.episode %}
+                  <div class="episode-num">Épisode #{{ page.episode }}</div>
+                  {% else %}{% if page.permalink == "/404/" %}
+                  <div class="episode-num">Erreur 404</div>
+                  {% endif %}
+                {% endif %}
                 <h1>{{ page.title }}</h1>
                 <small><time datetime='{{ page.date | date_to_xmlschema }}' class="top">{% include date.html date=page.date %}</time></small>
             {% endif %}
