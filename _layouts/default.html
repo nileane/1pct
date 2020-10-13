@@ -26,8 +26,8 @@
             {% else %}
                 {% if page.episode %}
                   <div class="episode-num">Épisode #{{ page.episode }}</div>
-                  {% else %}{% if page.permalink == "/404/" %}
-                  <div class="episode-num">Erreur 404</div>
+                  {% else %}{% if page.overtitle %}
+                  <div class="episode-num">{{ page.overtitle }}</div>
                   {% endif %}
                 {% endif %}
                 <h1>{{ page.title }}</h1>
