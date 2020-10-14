@@ -10,27 +10,32 @@ permalink: /1/
 
 <!--more-->
 
+<p><strong>Présent-es : </strong>Niléane, Jena, Malley, Cat et Tiphaine.</p>
+<p><strong>Durée : 01h 12mn</strong></p>
 <p><strong>Note : </strong>Nous avons eu des soucis avec le micro de Jena, qui génère beaucoup de bruit de fond malgré le montage. Un Podcast Trans est pour nous tou-te-s un challenge technique et d'exercice, avec un peu de force la qualité sera meilleure avec chaque nouvel épisode :D</p>
+
 <p><strong>Liens et ressources mentionnées</strong></p>
 <ul>
-  <li><a href="https://cause-commune.fm/shows/over-game/">Over Game sur Cause Commune - Paris 93.1FM</a></li>
-  <li><a href="http://lacolonieduweb.fr/2020/09/07/cinema-all-together-now-2020-les-riches-ces-genereux-sauveurs/">‘All Together Now’ (2020) — les riches, ces généreux sauveurs.</a></li>
+ <li><a href="https://cause-commune.fm/shows/over-game/">Over Game sur Cause Commune - Paris 93.1FM&nbsp;</a></li>
+ <li><a href="http://lacolonieduweb.fr/2020/09/07/cinema-all-together-now-2020-les-riches-ces-genereux-sauveurs/">‘All Together Now’ (2020) — les riches, ces généreux sauveurs.</a></li>
   <li><a href="https://music.emilevankrieken.com/album/the-aether-ii-original-soundtrack">Emile van Krieken (The Aether II Original Soundtrack)</a></li>
   <li><a href="https://dico.elix-lsf.fr/dictionnaire/transsexuel/adj.-222855">'Transsexuel' en LSF sur Le Dico Elix</a></li>
   <li><a href="https://csti-lyon.fr/">Caisse de Solidarité Trans Inter</a> (<a href="https://twitter.com/sotransinter?s=21">Twitter</a>)</li>
   <li><a href="https://existrans.org/">ExisTransInter 2020</a> (<a href="https://twitter.com/existransinter?s=21">Twitter</a>)</li>
   <li><a href="https://twitter.com/existransinter/status/1314302349712805889?s=21">Communiqué concernant l'ExisTransInter 2020</a></li>
 </ul>
+
 <p><strong>Chapitres</strong></p>
 <ul>
   <li><strong>00:00:00 - </strong>Intro, Jeux vidéo et Cinéma</li>
-  <li><strong>00:21:03 -</strong> Musique : Moa’s Song - Emile van Krieken</li>
-  <li><strong>00:23:47 - </strong>Tiphaine et la LSF</li>
-  <li><strong>00:36:55 -</strong> Archives : redécouvrir Bistouri Oui Oui</li>
-  <li><strong>00:39:25 -</strong> Tom Reucher et l’Existrans</li>
-  <li><strong>00:48:26 -</strong> Stéphanie Michelini</li>
-  <li><strong>00:58:46 -</strong> Caisse de Solidarité Trans Inter</li>
-  <li><strong>01:03:29 -</strong> ExisTransInter 2020</li>
-  <li><strong>01:05:05 -</strong> Conclusion</li>
+  <li><strong>00:21:01 -</strong> Musique : Moa’s Song - Emile van Krieken</li>
+  <li><strong>00:23:35 - </strong>Tiphaine et la LSF</li>
+  <li><strong>00:36:43 -</strong> Archives : redécouvrir Bistouri Oui Oui</li>
+  <li><strong>00:39:13 -</strong> Tom Reucher et l’Existrans</li>
+  <li><strong>00:48:13 -</strong> Stéphanie Michelini</li>
+  <li><strong>00:58:33 -</strong> Caisse de Solidarité Trans Inter</li>
+  <li><strong>01:03:23 -</strong> ExisTransInter 2020</li>
+  <li><strong>01:04:50 -</strong> Conclusion</li>
+  <li><strong>01:06:49 -</strong> Musique : Moa’s Song - Emile van Krieken</li>
   <li><strong>01:10:40 -</strong> Chat à molette</li>
 </ul>
