@@ -5,13 +5,15 @@ title: "Tailles"
 episode: "1"
 summary: "Jeux vidéo, LSF, quelques archives et ExisTransInter 2020"
 permalink: /1/
+anchor: '#'
+file: '#'
 ---
 <p>On commente des archives de l'émission Bistouri Oui Oui, on discute de l'initiative de la Caisse de Solidarité Trans Inter, et puis de la forme particulière d'ExisTransInter en 2020.</p>
 
 <!--more-->
 
 <p><strong>Présent-es : </strong>Niléane, Jena, Malley, Cat et Tiphaine.</p>
-<p><strong>Durée : 01h 12mn</strong></p>
+<p><strong>Durée : 1h 32mn</strong></p>
 <p><strong>Note : </strong>Nous avons eu des soucis avec le micro de Jena, qui génère beaucoup de bruit de fond malgré le montage. Un Podcast Trans est pour nous tou-te-s un challenge technique et d'exercice, avec un peu de force la qualité sera meilleure avec chaque nouvel épisode :D</p>
 
 <p><strong>Liens et ressources mentionnées</strong></p>
