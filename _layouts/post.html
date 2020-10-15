@@ -12,10 +12,13 @@ layout: default
         {% if page.anchor %}
         <a href="{{ page.anchor }}" class="button">▶️ Écouter sur Anchor et +</a>
         {% endif %}
+        {% if page.anchor %}
+        <a href="{{ page.spotify }}" class="button spotify">▶️ Écouter sur Spotify</a>
+        {% endif %}
         {% if page.file %}
         <a href="{{ page.file }}" class="button gray">⤵️ Télécharger</a>
 
-        <audio controls=""><source src="{{ page.file }}" type="audio/mpeg"></audio>  
+        <audio controls=""><source src="{{ page.file }}" type="audio/mpeg"></audio>
         {% endif %}
 
         {{ content }}

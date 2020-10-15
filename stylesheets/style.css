@@ -888,3 +888,11 @@ audio {
     border: 3px solid var(--fg-link-color) !important;
     color: #fff;
 }
+.button.spotify {
+    border-color: #1DB954 !important;
+    color: #1DB954;
+}
+.button.spotify:hover {
+    background-color: #1DB954 !important;
+    color: #fff;
+}

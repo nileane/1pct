@@ -6,6 +6,7 @@ episode: "1"
 summary: "Jeux vidéo, LSF, quelques archives et ExisTransInter 2020"
 permalink: /1/
 anchor: 'https://anchor.fm/1pct/episodes/1---Tailles-el2oua'
+spotify: 'https://open.spotify.com/episode/6SFr94qKtCRicScl1Nt20W?si=Zgl-SD3aSRSlssCzajIbCQ'
 file: 'https://s3-us-west-2.amazonaws.com/anchor-audio-bank/staging/2020-9-14/118379723-44100-2-b4caa294be186.m4a'
 ---
 <p>On commente des archives de l'émission Bistouri Oui Oui, on discute de l'initiative de la Caisse de Solidarité Trans Inter, et puis de la forme particulière d'ExisTransInter en 2020.</p>
