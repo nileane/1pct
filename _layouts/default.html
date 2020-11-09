@@ -6,32 +6,20 @@
 
   <body {% if page.layout %}class="{{ page.layout }}"{% endif %}>
 
-    <nav>
-        <div class="menu">
-          <span class="menu-items">
-          {% for link in site.data.presences %}
-            <a href="{{ link.url }}" title="{{ link.title }}"><span class="icon-{{ link.icon }}"></span></a>
-          {% endfor %}
-          </span>
-        </div>
-        {% unless page.layout == "home" or page.layout == "archive" or page.layout == "about" %}
-        <a href="/" id="signature-link"><img src="/images/Logo.png" alt="Un Podcast Trans" id="signature"></a>
-        {% endunless %}
-    </nav>
-
     <header>
         <div class="book-title">
             {% if page.layout == "home" or page.layout == "archive" or page.layout == "about" %}
                 <h1><a href="/"><img src="/images/Logo.png" alt="Un Podcast Trans"></a></h1>
             {% else %}
+                <a href="/"><img src="/images/Cover.png" alt="Un Podcast Trans"></a>
+                <small><time datetime='{{ page.date | date_to_xmlschema }}' class="top">{% include date.html date=page.date %}</time></small>
                 {% if page.episode %}
-                  <div class="episode-num">Épisode #{{ page.episode }}</div>
+                  <div class="episode-num"><span class="highlighted">Épisode #{{ page.episode }}</span></div>
                   {% else %}{% if page.overtitle %}
-                  <div class="episode-num">{{ page.overtitle }}</div>
+                  <div class="episode-num"><span class="highlighted">{{ page.overtitle }}</span></div>
                   {% endif %}
                 {% endif %}
                 <h1>{{ page.title }}</h1>
-                <small><time datetime='{{ page.date | date_to_xmlschema }}' class="top">{% include date.html date=page.date %}</time></small>
             {% endif %}
         </div>
     </header>

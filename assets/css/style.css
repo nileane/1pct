@@ -29,10 +29,6 @@
  * ----------
  */
 
-@import url(fonts/social/social.css);
-@import url('https://fonts.googleapis.com/css?family=Nunito:400,700,800&display=swap');
-@import url(syntax.css);
-
 
 :root {
     color-scheme: light dark;
@@ -150,6 +146,9 @@ h1 {
     font-size: 2.8em;
     text-align: center;
 }
+h2 {
+    font-size: 2.2em;
+}
 div.post h1 {
     font-size: 2em;
     margin: 2em 0 1em;
@@ -157,7 +156,7 @@ div.post h1 {
 div.post h1:first-child {
     margin: 0 0 .5em;
 }
-.post h2 {
+.post h2:not(:first-of-type) {
     font-size: 1.8em;
     margin: 2em 0 1em;
 }
@@ -182,6 +181,9 @@ hr.title + h1 {
     text-transform: uppercase;
     letter-spacing: -.05em;
 }
+.highlighted {
+    box-shadow: inset 0 -0.9em #ff706b57;
+}
 
 /*
  * 4. Header: body > nav
@@ -200,6 +202,7 @@ body > nav {
 }
 body.post > nav {
     height: 90px;
+    display: none;
 }
 body > nav > div {
     padding: 0;
@@ -248,9 +251,8 @@ nav .menu-items {
 }
 
 #signature-link {
-    float: left;
     position: absolute;
-    top: 45px;
+    top: 40px;
 }
 #signature {
     width: 80px;
@@ -273,7 +275,7 @@ nav .menu-items {
     #signature-link {
         float: left;
         position: absolute;
-        top: 80px;
+        top: 70px;
     }
 }
 
@@ -286,19 +288,24 @@ nav .menu-items {
 body > header {
     color: #fff;
     box-sizing: border-box;
-    margin: 0;
-    padding: 5rem 0;
+    margin: 5rem 0 0;
+    padding: 5rem 0 5rem;
     position: relative;
     -webkit-transition: all .3s;
     transition: all .3s;
 }
 .post header {
+    margin-top: 0;
     padding-top: 6em;
 }
 @media screen and (max-width:800px) {
     body > header {
-        margin-top: 10px;
-        padding: 2rem 9% 3rem !important;
+        margin-top: 7rem;
+        padding: 2rem 9% 4rem !important;
+    }
+    .post header {
+        margin-top: 5rem;
+        padding-top: 6em;
     }
 
 }
@@ -317,6 +324,9 @@ body > header:after {
     background: url(/images/Motif.png) center 120% / auto 80% no-repeat transparent;
     opacity: .3;
 }
+body.post > header:after {
+    opacity: .1;
+}
 body > header:before {
     background: radial-gradient(ellipse at center, #440e88, #340881),
      radial-gradient(ellipse at bottom, #440e88, #340881);
@@ -324,11 +334,10 @@ body > header:before {
 body > header h1 {
     color: #fff;
     margin: 0;
-    font-size: 3.4em;
-    text-align: left;
+    font-size: 5em;
     vertical-align: middle;
 }
-body:not(.post) > header h1 {
+body.home > header h1 {
     text-align: left;
 }
 body.home > aside h1 {
@@ -340,11 +349,11 @@ body > header .book-title {
     margin: 0 auto;
     box-sizing: border-box;
     transition: all .3s;
+    text-align: center;
 }
 body > header .book-title small {
     font-size: 1.1em;
     display: block;
-    margin: .2em;
     color: #fff;
 }
 body > header .book-title small a {
@@ -357,13 +366,22 @@ body > header .book-title small a {
     overflow: hidden;
 }
 body > header .book-title img {
-    height: 90px;
+    height: 120px;
 }
 
 @media screen and (max-width:500px) {
     body > header .book-title img {
-        height: 70px;
+        height: 100px;
     }
+    body > header h1 {
+        font-size: 3.5em;
+    }
+}
+
+body.post > header .book-title img {
+    height: 120px;
+    margin-bottom: 3em;
+    border-radius: 5px;
 }
 
 
@@ -501,14 +519,16 @@ html[lang=en] .index li.fr-post a > *:not(.lang-indicator) {
 }
 .episode-num {
     font-weight: 700;
-    color: #FF6584;
+    color: var(--fg-post-color);
 }
+
 header .episode-num {
     font-size: 1.8em;
+    color: #fff;
 }
 .index h2 {
     margin: 0;
-    font-size: 1.7em;
+    font-size: 2.2em;
     transition: all .2s;
 }
 .index time {
@@ -868,7 +888,7 @@ audio {
 .button {
      display: inline-block;
      padding: 2px 1rem;
-     margin: 1px 3px;
+     margin: 1px 2px .5em;
      border-radius: 50px;
      background: var(--bg-section-color);
      border: 3px solid var(--fg-link-color) !important;
@@ -878,6 +898,11 @@ audio {
     border: 3px solid var(--fg-link-color) !important;
     color: #fff;
 }
+.button span,
+.button i {
+    display: inline-block;
+    transform: translate(0, 1px);
+}
 .button.gray {
     background: var(--faded-color);
     color: var(--fg-post-color);
@@ -886,6 +911,20 @@ audio {
 .button.gray:hover {
     background: var(--fg-link-color);
     border: 3px solid var(--fg-link-color) !important;
+    color: #fff;
+}
+.button.anchor {
+    color: #8940fa;
+    border: 3px solid #8940fa !important;
+}
+.button.anchor span {
+    transition: all .2s;
+}
+.button.anchor:hover span {
+    filter: brightness(100);
+}
+.button.anchor:hover {
+    background-color: #8940fa;
     color: #fff;
 }
 .button.spotify {
