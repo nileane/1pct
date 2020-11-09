@@ -288,8 +288,8 @@ nav .menu-items {
 body > header {
     color: #fff;
     box-sizing: border-box;
-    margin: 5rem 0 0;
-    padding: 5rem 0 5rem;
+    margin: 4rem 0 0;
+    padding: 5rem 0 2rem;
     position: relative;
     -webkit-transition: all .3s;
     transition: all .3s;
@@ -297,15 +297,17 @@ body > header {
 .post header {
     margin-top: 0;
     padding-top: 6em;
+    padding-bottom: 5rem;
 }
 @media screen and (max-width:800px) {
     body > header {
-        margin-top: 7rem;
-        padding: 2rem 9% 4rem !important;
+        margin-top: 3rem;
+        padding: 2rem 9% 2rem;
     }
     .post header {
-        margin-top: 5rem;
+        margin-top: 0;
         padding-top: 6em;
+        padding-bottom: 3rem;
     }
 
 }
@@ -322,9 +324,6 @@ body > header:after {
 }
 body > header:after {
     background: url(/images/Motif.png) center 120% / auto 80% no-repeat transparent;
-    opacity: .3;
-}
-body.post > header:after {
     opacity: .1;
 }
 body > header:before {
@@ -343,6 +342,11 @@ body.home > header h1 {
 body.home > aside h1 {
     font-size: 2.7em;
 }
+body > header h2 {
+    color: #fff;
+    font-size: 3em;
+    text-align: left;
+}
 body > header .book-title {
     max-width: 656px;
     padding: 0;
@@ -350,6 +354,9 @@ body > header .book-title {
     box-sizing: border-box;
     transition: all .3s;
     text-align: center;
+}
+body.home > header .book-title {
+    text-align: left;
 }
 body > header .book-title small {
     font-size: 1.1em;
@@ -366,12 +373,17 @@ body > header .book-title small a {
     overflow: hidden;
 }
 body > header .book-title img {
-    height: 120px;
+    height: 110px;
+    border-radius: 6px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, .1);
+}
+body.home > header .book-title img {
+    height: 140px;
 }
 
 @media screen and (max-width:500px) {
     body > header .book-title img {
-        height: 100px;
+        height: 90px;
     }
     body > header h1 {
         font-size: 3.5em;

@@ -4,7 +4,6 @@ type: pages
 layout: home
 permalink: /
 ---
-## On bavarde, on se redécouvre, et puis on est trans ✨
 Nos vies ne tournent pas toujours autour de nos transidentités, ce podcast non plus : nous discutons de nos activités, de nos passions, et parfois du fait qu'on est trans :D
 
 [<i class='fab fa-twitter'></i> Nous suivre](https://twitter.com/unpodcasttrans){: class="button gray"}
