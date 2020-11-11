@@ -294,20 +294,10 @@ body > header {
     -webkit-transition: all .3s;
     transition: all .3s;
 }
-.post header {
-    margin-top: 0;
-    padding-top: 6em;
-    padding-bottom: 5rem;
-}
 @media screen and (max-width:800px) {
     body > header {
         margin-top: 3rem;
         padding: 2rem 9% 2rem;
-    }
-    .post header {
-        margin-top: 0;
-        padding-top: 6em;
-        padding-bottom: 3rem;
     }
 
 }
@@ -335,8 +325,6 @@ body > header h1 {
     margin: 0;
     font-size: 5em;
     vertical-align: middle;
-}
-body.home > header h1 {
     text-align: left;
 }
 body.home > aside h1 {
@@ -353,7 +341,7 @@ body > header .book-title {
     margin: 0 auto;
     box-sizing: border-box;
     transition: all .3s;
-    text-align: center;
+    text-align: left;
 }
 body.home > header .book-title {
     text-align: left;
@@ -391,7 +379,7 @@ body.home > header .book-title img {
 }
 
 body.post > header .book-title img {
-    height: 120px;
+    height: 140px;
     margin-bottom: 3em;
     border-radius: 5px;
 }
