@@ -322,7 +322,7 @@ body > header:before {
 }
 body > header h1 {
     color: #fff;
-    margin: 0;
+    margin-top: 0;
     font-size: 5em;
     vertical-align: middle;
     text-align: left;
