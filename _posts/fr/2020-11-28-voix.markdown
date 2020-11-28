@@ -1,0 +1,56 @@
+---
+layout: post
+published: true
+title: "Voix"
+episode: "2"
+summary: "Jena change de voix, on parle de nos ancêtres trans et de nos divertissements du confinement, et nous sommes hanté-es par le t-shirt de Tiphaine."
+permalink: /2/
+anchor: 'https://anchor.fm/1pct/episodes/2---Voix-en385d'
+spotify: 'https://open.spotify.com/episode/5KDdQW9uqvFYoW5wEGjyhg?si=lt1RVLHmQ0C22H-05ovx_w'
+file: 'https://d3ctxlq1ktw2nl.cloudfront.net/staging/2020-10-28/132839949-44100-2-6c601e2abd647.m4a'
+---
+<p>Jena change de voix, on parle de nos ancêtres trans et de nos divertissements du confinement, et nous sommes hanté-es par le t-shirt de Tiphaine.</p>
+
+<!--more-->
+
+<p><strong>Présent-es :</strong> Niléane (<a href="https://twitter.com/Nildeala">@Nildeala</a>), Jena (<a href="https://twitter.com/JenaS_elle">@JenaS_elle</a>), Malley, Tiphaine, Merry (<a href="https://twitter.com/Merry_wicce">@Merry_wicce</a>) et Pawline (<a href="https://twitter.com/PawLilith">@PawLilith</a>).</p>
+<p><strong>Durée : 57 minutes.</strong></p>
+<p>Oui, il y a vraiment -50% sur <a href="https://www.etsy.com/fr/shop/Polyarmure">la boutique de Jena</a> (<a href="https://www.etsy.com/fr/shop/Polyarmure">Etsy</a>) avec le code <strong>1PCT50</strong>.</p>
+<p><strong>Liens et ressources mentionnées</strong></p>
+<ul>
+ <li><a href="https://www.acceptess-t.com/aide-sociale">Le FAST</a> (<strong>Fonds d'Aide Sociale Trans</strong>) d'Acceptess-T&nbsp;</li>
+ <li>Plusieurs sénateurices d'Etat trans élu-es aux US (<a href="https://twitter.com/mermaids_gender/status/1325015138085330946?s=21">Mermaids sur Twitter</a>)&nbsp;</li>
+ <li><strong>Petra De Sutter </strong>nommée Vice Première Ministre de Belgique (<a href="https://www.francetvinfo.fr/societe/lgbt/video-petra-de-sutter-une-femme-transgenre-nommee-ministre_4189259.html">franceinfo</a>)</li>
+ <li><a href="https://syncplay.pl">Syncplay</a>, le lecteur qui permet de regarder des choses ensemble à distance pendant le confinement&nbsp;</li>
+  <li><strong>The Mandalorian</strong> (série) (<a href="https://fr.wikipedia.org/wiki/The_Mandalorian">Wikipedia</a>)</li>
+  <li><strong>Firefly</strong> (série) (<a href="https://fr.wikipedia.org/wiki/Firefly_(série_télévisée)">Wikipedia</a>)</li>
+  <li><strong>Among Us</strong> (jeu) (<a href="https://store.steampowered.com/app/945360/Among_Us/">Steam</a>)</li>
+  <li><strong>We Were Here</strong> (jeu) (<a href="https://store.steampowered.com/app/582500/We_Were_Here/">Steam</a>)</li>
+  <li><strong>One Piece</strong> (mangas) (<a href="https://fr.wikipedia.org/wiki/One_Piece">Wikipedia</a>)</li>
+  <li><strong>Supergirl</strong> (série) (<a href="https://fr.wikipedia.org/wiki/Supergirl_(série_télévisée)">Wikipedia</a>)</li>
+  <li><strong>The Craft: Legacy </strong>(film) (<a href="https://fr.wikipedia.org/wiki/The_Craft_:_Les_Nouvelles_sorcières">Wikipedia</a>)</li>
+</ul>
+<p><strong>Musique</strong></p>
+<ul>
+  <li><strong>Merci à 3D63 qui nous a permis d'utiliser sa musique dans cet épisode, foncez l'écouter sur </strong><a href="https://3d63.bandcamp.com/album/analog-hack"><strong>son Bandcamp</strong></a><strong> !</strong></li>
+</ul>
+<p><strong>Chapitres</strong></p>
+<ul>
+  <li><strong>00:00:00 - </strong>Le t-shirt de Tiphaine</li>
+  <li><strong>00:01:28</strong> - Introduction</li>
+  <li><strong>00:02:02</strong> - Le FAST</li>
+  <li><strong>00:02:56</strong> - Multiples élections de personnes trans aux US</li>
+  <li><strong>00:05:12</strong> - Pawline et Merry débarquent</li>
+  <li><strong>00:07:19</strong> - Jena change de voix :o</li>
+  <li><strong>00:12:01</strong> - Jena vend de jolis masques</li>
+  <li><strong>00:15:18</strong> - Archives : nos ancêtres trans</li>
+  <li><strong>00:29:46</strong> - <strong>Musique : 3D63 - Oracles &amp; Miracles (</strong><a href="https://3d63.bandcamp.com/album/analog-hack"><strong>Bandcamp</strong></a><strong>)</strong></li>
+  <li><strong>00:32:29 - </strong>Nos divertissements : The Mandalorian (série)</li>
+  <li><strong>00:36:08</strong> - Nos divertissements : Firefly (série)</li>
+  <li><strong>00:38:06</strong> - Nos divertissements : Among Us (jeu)</li>
+  <li><strong>00:39:32</strong> - Nos divertissements : We Were Here (jeu)</li>
+  <li><strong>00:41:19</strong> - Nos divertissements : One Piece (mangas)</li>
+  <li><strong>00:43:21</strong> - Nos divertissements : Supergirl (série)</li>
+  <li><strong>00:44:32</strong> - Merry et The Craft Legacy</li>
+  <li><strong>00:54:06</strong> - Conclusion</li>
+</ul>
