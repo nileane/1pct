@@ -15,3 +15,10 @@ excerpt_separator: <!--more-->
 
 plugins:
   - jekyll-feed
+
+rss: "https://anchor.fm/s/dd0734/podcast/rss"
+anchor: "https://anchor.fm/1pct"
+apple: "https://podcasts.apple.com/fr/podcast/un-podcast-trans/id1535381424"
+spotify: "https://open.spotify.com/show/3gyRvCPxc41Hq8zMPRNM1o"
+overcast: "https://overcast.fm/itunes1535381424"
+pocketcasts: "http://pca.st/itunes/1535381424"

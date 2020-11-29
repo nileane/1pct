@@ -67,7 +67,6 @@ body {
     overflow-x: hidden;
     overflow-y: scroll;
     color: #515151;
-    -webkit-transition: background-color .2s;
     transition: background-color .2s;
 }
 p,
@@ -84,7 +83,6 @@ ul {
 a {
     color: #6C63FF;
     text-decoration: none;
-    -webkit-transition: all .3s;
     transition: all .3s;
 }
 *:active,*:focus,*:hover {
@@ -291,8 +289,6 @@ body > header {
     margin: 2rem 0 0;
     padding: 5rem 0 2rem;
     position: relative;
-    -webkit-transition: all .3s;
-    transition: all .3s;
 }
 @media screen and (max-width:800px) {
     body > header {
@@ -311,10 +307,6 @@ body > header:after {
     right: 0;
     width: 100%;
     z-index: -1;
-}
-body > header:after {
-    background: url(/images/Motif.png) center 120% / auto 80% no-repeat transparent;
-    opacity: .1;
 }
 body > header:before {
     background: radial-gradient(ellipse at center, #440e88, #340881),
@@ -340,7 +332,6 @@ body > header .book-title {
     padding: 0;
     margin: 0 auto;
     box-sizing: border-box;
-    transition: all .3s;
     text-align: center;
 }
 body.home > header .book-title {
@@ -934,4 +925,32 @@ audio {
 .button.spotify:hover {
     background-color: #1DB954 !important;
     color: #fff;
+}
+.button.pocketcasts {
+    border-color: #d9324c !important;
+    color: #d9324c;
+}
+.button.pocketcasts:hover {
+    background-color: #d9324c !important;
+    color: #fff;
+}
+.button.pocketcasts span {
+    transition: all .2s;
+}
+.button.pocketcasts:hover span {
+    filter: brightness(100);
+}
+.button.overcast {
+    border-color: #d96c00 !important;
+    color: #d96c00;
+}
+.button.overcast:hover {
+    background-color: #d96c00 !important;
+    color: #fff;
+}
+.button.overcast span {
+    transition: all .2s;
+}
+.button.overcast:hover span {
+    filter: brightness(100);
 }

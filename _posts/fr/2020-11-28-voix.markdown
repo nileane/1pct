@@ -5,9 +5,12 @@ title: "Voix"
 episode: "2"
 summary: "Jena change de voix, on parle de nos ancêtres trans et de nos divertissements du confinement, et nous sommes hanté-es par le t-shirt de Tiphaine."
 permalink: /2/
+file: 'https://d3ctxlq1ktw2nl.cloudfront.net/staging/2020-10-28/132839949-44100-2-6c601e2abd647.m4a'
 anchor: 'https://anchor.fm/1pct/episodes/2---Voix-en385d'
 spotify: 'https://open.spotify.com/episode/5KDdQW9uqvFYoW5wEGjyhg?si=lt1RVLHmQ0C22H-05ovx_w'
-file: 'https://d3ctxlq1ktw2nl.cloudfront.net/staging/2020-10-28/132839949-44100-2-6c601e2abd647.m4a'
+apple: 'https://podcasts.apple.com/fr/podcast/un-podcast-trans/id1535381424#episodeGuid=b7b913ab-e73d-4ada-87dc-c2ec0654750d'
+pocketcasts: 'https://pca.st/6xa1yc13'
+overcast: 'https://overcast.fm/+kVhXWg1e8'
 ---
 <p>Jena change de voix, on parle de nos ancêtres trans et de nos divertissements du confinement, et nous sommes hanté-es par le t-shirt de Tiphaine.</p>
 
