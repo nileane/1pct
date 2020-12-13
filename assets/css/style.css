@@ -145,7 +145,7 @@ h1 {
     text-align: center;
 }
 h2 {
-    font-size: 2.2em;
+    font-size: 2em;
 }
 div.post h1 {
     font-size: 2em;
@@ -293,7 +293,7 @@ body > header {
 @media screen and (max-width:800px) {
     body > header {
         margin-top: 3rem;
-        padding: 2rem 9% 2rem;
+        padding: 4rem 9% 4rem;
     }
 
 }
@@ -309,12 +309,11 @@ body > header:after {
     z-index: -1;
 }
 body > header:before {
-    background: radial-gradient(ellipse at center, #440e88, #340881),
-     radial-gradient(ellipse at bottom, #440e88, #340881);
+    background: radial-gradient(ellipse at center, #6A1B9A, #340881);
 }
 body > header h1 {
     color: #fff;
-    margin-top: 0;
+    margin: 0;
     font-size: 5em;
     vertical-align: middle;
     text-align: center;
@@ -332,9 +331,6 @@ body > header .book-title {
     padding: 0;
     margin: 0 auto;
     box-sizing: border-box;
-    text-align: center;
-}
-body.home > header .book-title {
     text-align: center;
 }
 body > header .book-title small {
@@ -357,11 +353,13 @@ body > header .book-title img {
     box-shadow: 0 2px 5px rgba(0, 0, 0, .1);
 }
 body.home > header .book-title img {
-    height: 140px;
+    height: 100px;
+    box-shadow: none;
 }
 
 @media screen and (max-width:500px) {
-    body > header .book-title img {
+    body > header .book-title img,
+    body.home > header .book-title img {
         height: 90px;
     }
     body > header h1 {
@@ -465,8 +463,28 @@ body > section > * {
     padding: 3rem 9%;
 }
 
-section.introducing h3 {
-    margin: 0;
+
+@media screen and (min-width:750px) {
+  .introducing .post {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+  }
+  .introducing h2 {
+      font-size: 2em;
+      grid-column: 1 / 3;
+      margin-bottom: 0;
+      grid-row: 1;
+  }
+  .introducing p:first-of-type {
+      grid-column: 1 / 3;
+      grid-row: 2;
+      margin-top: 0;
+  }
+  .introducing p:nth-of-type(2) {
+      grid-row: 1 / 3;
+      grid-column: 3;
+      text-align: right;
+  }
 }
 
 
@@ -878,15 +896,14 @@ audio {
 
 .button {
      display: inline-block;
-     padding: 2px 1rem;
+     padding: 5px 1rem;
      margin: 1px 2px .5em;
      border-radius: 50px;
-     background: var(--bg-section-color);
-     border: 3px solid var(--fg-link-color) !important;
+     border-bottom: 0 !important;
+     background-color: #e6e4ff;
 }
 .button:hover {
     background: var(--fg-link-color);
-    border: 3px solid var(--fg-link-color) !important;
     color: #fff;
 }
 .button span,
@@ -897,16 +914,30 @@ audio {
 .button.gray {
     background: var(--faded-color);
     color: var(--fg-post-color);
-    border: 3px solid var(--faded-color) !important;
 }
 .button.gray:hover {
     background: var(--fg-link-color);
-    border: 3px solid var(--fg-link-color) !important;
+    color: #fff;
+}
+.button.twitter {
+    background-color: #cbe1ff;
+    color: #408ffa;
+}
+.button.twitter:hover {
+    background-color: #408ffa;
+    color: #fff;
+}
+.button.rss {
+    background-color: rgb(255, 215, 196);
+    color: rgb(224, 77, 0);
+}
+.button.rss:hover {
+    background-color: rgb(224, 77, 0);
     color: #fff;
 }
 .button.anchor {
     color: #8940fa;
-    border: 3px solid #8940fa !important;
+    background-color: #eee3ff;
 }
 .button.anchor span {
     transition: all .2s;
@@ -919,16 +950,16 @@ audio {
     color: #fff;
 }
 .button.spotify {
-    border-color: #1DB954 !important;
     color: #1DB954;
+    background-color: #def5e5;
 }
 .button.spotify:hover {
     background-color: #1DB954 !important;
     color: #fff;
 }
 .button.pocketcasts {
-    border-color: #d9324c !important;
     color: #d9324c;
+    background-color: #fcdfe4;
 }
 .button.pocketcasts:hover {
     background-color: #d9324c !important;
@@ -941,8 +972,8 @@ audio {
     filter: brightness(100);
 }
 .button.overcast {
-    border-color: #d96c00 !important;
     color: #d96c00;
+    background-color: #ffeedd;
 }
 .button.overcast:hover {
     background-color: #d96c00 !important;

@@ -9,8 +9,7 @@
     <header>
         <div class="book-title">
             {% if page.layout == "home" or page.layout == "archive" or page.layout == "about" %}
-                <h1><a href="/"><img src="/images/Cover.png" alt="Un Podcast Trans"></a></h1>
-                <h2>On bavarde, on se redécouvre, et puis on est trans ✨</h2>
+                <h1><a href="/"><img src="/images/Logo.png" alt="Un Podcast Trans"></a></h1>
             {% else %}
                 <a href="/"><img src="/images/Cover.png" alt="Un Podcast Trans"></a>
                 <small><time datetime='{{ page.date | date_to_xmlschema }}' class="top">{% include date.html date=page.date %}</time></small>
