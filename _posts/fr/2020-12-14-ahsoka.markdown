@@ -1,0 +1,17 @@
+---
+layout: post
+published: true
+title: "Ahsoka"
+episode: "Hors-Série #1"
+summary: ""
+permalink: /hs1/
+file: ''
+anchor: ''
+spotify: ''
+apple: ''
+pocketcasts: ''
+overcast: ''
+---
+<p>Ahsoka et Bo Katan : une longue histoire. On parle de représentation LGBT dans Star Wars, de transphobie, et d’identification aux persos féminins badass quand on se construit pendant et après la transition. This is the Way ?</p>
+
+<!--more-->

@@ -15,7 +15,7 @@
                 <a href="/"><img src="/images/Cover.png" alt="Un Podcast Trans"></a>
                 <small><time datetime='{{ page.date | date_to_xmlschema }}' class="top">{% include date.html date=page.date %}</time></small>
                 {% if page.episode %}
-                  <div class="episode-num"><span class="highlighted">Épisode #{{ page.episode }}</span></div>
+                  <div class="episode-num"><span class="highlighted">Épisode {{ page.episode }}</span></div>
                   {% else %}{% if page.overtitle %}
                   <div class="episode-num"><span class="highlighted">{{ page.overtitle }}</span></div>
                   {% endif %}

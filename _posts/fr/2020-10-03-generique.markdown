@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: "Générique"
-episode: "0"
+episode: "#0"
 summary: "Notre mélodie d'intro :D"
 permalink: /0/
 anchor: https://anchor.fm/1pct/episodes/Un-Podcast-Trans---Gnrique-ekshor

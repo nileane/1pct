@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: "Tailles"
-episode: "1"
+episode: "#1"
 summary: "Jeux vidéo, LSF, quelques archives et ExisTransInter 2020"
 permalink: /1/
 anchor: 'https://anchor.fm/1pct/episodes/1---Tailles-el2oua'
