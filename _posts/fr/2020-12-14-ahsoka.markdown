@@ -5,13 +5,53 @@ title: "Ahsoka"
 episode: "Hors-Série #1"
 summary: ""
 permalink: /hs1/
-file: ''
+file: 'https://d3ctxlq1ktw2nl.cloudfront.net/staging/2020-11-13/137635989-44100-2-fe105b3210639.m4a'
 anchor: ''
 spotify: ''
 apple: ''
 pocketcasts: ''
 overcast: ''
 ---
-<p>Ahsoka et Bo Katan : une longue histoire. On parle de représentation LGBT dans Star Wars, de transphobie, et d’identification aux persos féminins badass quand on se construit pendant et après la transition. This is the Way ?</p>
+<p>Ahsoka et Bo-Katan : une longue histoire. On parle de représentation LGBT dans Star Wars, de transphobie, et d’identification aux persos féminins badass quand on se construit pendant et après la transition. This is the Way ?</p>
 
 <!--more-->
+
+<p><strong>Présent-es :</strong> Niléane (<a href="https://twitter.com/Nildeala">@Nildeala</a>), Jena (<a href="https://twitter.com/JenaS_elle">@JenaS_elle</a>), et Pawline (<a href="https://twitter.com/PawLilith">@PawLilith</a>).</p>
+<p><strong>Durée : 60 minutes.</strong></p>
+<p><strong>Liens et ressources mentionnées</strong></p>
+<ul>
+  <li><strong>Ahsoka Tano </strong><a href="https://starwars.fandom.com/fr/wiki/Ahsoka_Tano"><strong>sur Wookiepedia</strong></a><strong>.</strong></li>
+  <li><strong>Bo-Katan Kryze </strong><a href="https://starwars.fandom.com/fr/wiki/Bo-Katan_Kryze"><strong>sur Wookiepedia</strong></a><strong>.</strong></li>
+  <li><em><strong>In Praise of the Growth of Ahsoka Tano, the Star Wars Heroine I Always Needed, </strong></em><a href="https://io9.gizmodo.com/in-praise-of-the-growth-of-ahsoka-tano-the-star-wars-h-1823682030"><strong>le texte de Julie Muncy</strong></a><strong>.</strong></li>
+</ul>
+<p><strong>Chapitres</strong></p>
+<ul>
+  <li><strong>00:00:24 - </strong>Bonjour ! Spoiler warning</li>
+  <li><strong>00:01:45 </strong>- Pourquoi on est là ? parce qu’on kiffe Ahsoka Tano&nbsp;</li>
+  <li><strong>00:03:20 - </strong>L’Enfance</li>
+  <li><strong>00:04:45 </strong>- Clone Wars : padawan d’Anakin&nbsp;</li>
+  <li><strong>00:06:40 </strong>- Famille à trois et couple gay</li>
+  <li><strong>00:07:15 </strong>- Puberté et identification trans</li>
+  <li><strong>00:08:30 - </strong>Ahsoka quitte l’Ordre Jedi</li>
+  <li><strong>00:12:15 - "</strong>On va pas rentrer dans Darth Maul". Mais dans Bo-Katan ?</li>
+  <li><strong>00:13:15 </strong>- Clone Wars saison 7, dernières minutes avec Anakin</li>
+  <li><strong>00:14:20 </strong>- Personnages féminins forts dans les séries, big boys dans les films</li>
+  <li><strong>00:15:35 </strong>- Réhabilitation d’Anakin, notre bully à toutes</li>
+  <li><strong>00:16:30 - </strong>Le roman Ahsoka de EK Johnston</li>
+  <li><strong>00:16:55</strong> - La série Rebels : Fulcrum. Force et sagesse.</li>
+  <li><strong>00:19:50 - </strong>Ahsoka termine l’apprentissage de Luke ? Niléane imite Yoda.</li>
+  <li><strong>00:21:10 - </strong>Darth Vader et Ahsoka découvrent leurs survies respectives</li>
+  <li><strong>00:23:15 - </strong>Épilogue de Rebels : chronologie ?</li>
+  <li><strong>00:25:05 - </strong>La voix d’Ahsoka dans l’épisode IX : mourue ou pas ?&nbsp;</li>
+  <li><strong>00:25:30 - </strong>The Mandalorian : on retrouve Bo-Katan puis Ahsoka</li>
+  <li><strong>00:28:05 - </strong>Isn’t that the hand that slapped my ass?</li>
+  <li><strong>00:29:00 - </strong>Elles sont ensembles !?</li>
+  <li><strong>00:29:35 - </strong>Comment est-ce qu’on a découvert Ahsoka, et pourquoi on l’aime</li>
+  <li><strong>00:36:00 - </strong>Jena mue pendant l’enregistrement</li>
+  <li><strong>00:37:00</strong> - Texte de Julie Muncy (<a href="https://twitter.com/juliemuncy23">@juliemuncy23</a>)&nbsp;</li>
+  <li><strong>00:45:10 - </strong>Transition (pun intended) : Ahsoka n’est plus jouée par Ashley Eckstein mais par Rosario Dawson, et c’est pas facile pour nous.</li>
+  <li><strong>00:51:00 - </strong>Le deuil d’Harry Potter</li>
+  <li><strong>00:53:35 - </strong>Pawline trouve un moyen de regarder Ahsoka dans the Mandalorian avec le sourire aux lèvres</li>
+  <li><strong>00:57:00</strong> - La représentation LGBT dans Star Wars : donnez-nous Ahsoka.</li>
+  <li><strong>00:58:30 - </strong>Wrap<strong>-</strong>up. On sent toute notre tension qui se relâche.</li>
+</ul>
