@@ -9,6 +9,8 @@ file: 'https://d3ctxlq1ktw2nl.cloudfront.net/staging/2020-11-13/137635989-44100-
 apple: 'https://podcasts.apple.com/fr/podcast/un-podcast-trans/id1535381424#episodeGuid=3de6b22d-2ab4-44d0-a13b-8bd3ff2bb797'
 pocketcasts: 'https://pca.st/episode/db56acbd-6e93-4824-b593-92af16043f52'
 spotify: 'https://open.spotify.com/episode/07KdFIGgw1FevR8zgnts0P?si=qpt75_i4RRuDN1hGS44h7A'
+overcast: 'https://overcast.fm/+kVhUWXIFY'
+anchor: 'https://anchor.fm/1pct/episodes/Hors-Srie-1---Ahsoka-enoin1'
 ---
 <p>Ahsoka et Bo-Katan : une longue histoire. On parle de représentation LGBT dans Star Wars, de transphobie, et d’identification aux persos féminins badass quand on se construit pendant et après la transition. This is the Way ?</p>
 
