@@ -26,6 +26,7 @@ pocketcasts: 'https://pca.st/episode/3f2fe6ec-8458-403d-8858-92ae6a63d2a5'
   <li>Une critique du Père Noël, par Jena</li>
   <li><em>Je ne suis pas trans dans la forêt</em>, par Loup, <a href="https://pdlarevue.wordpress.com/2020/04/29/je-suis-pas-trans-dans-la-foret/">dans <strong>PD La Revue</strong></a></li>
   <li>Cyberpunk 2077 (jeu vidéo) (<a href="https://fr.wikipedia.org/wiki/Cyberpunk_2077#Accueil_critique">Wikipedia</a>)</li>
+  <li><a href="https://framaforms.org/enquete-sur-les-pratiques-dinjection-des-personnes-trans-dans-le-cadre-de-la-prise-dun-traitement-6">Enquête de l'association SAFE </a>sur les pratiques d'injection des personnes trans dans le cadre de la prise d'un traitement hormonal</li>
 </ul>
 <p><strong>Musique</strong></p>
 <ul>
