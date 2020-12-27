@@ -20,7 +20,7 @@ apple: 'https://podcasts.apple.com/fr/podcast/un-podcast-trans/id1535381424'
 <ul>
  <li><a href="https://petitions.senat.fr/initiatives/i-416">Pétition</a> pour la désolidarisation des revenus du conjoints pour le paiement de l'AAH (<a href="https://petitions.senat.fr/initiatives/i-416">Sénat</a>)</li>
  <li>Trombinoscope du Wiki Trans (<a href="https://wikitrans.co/modeles">Wiki Trans</a>)</li>
-  <li>Abolition de l'esclave le 20 décembre 1848 à La Réunion (<a href="https://fr.wikipedia.org/wiki/Esclavage_à_Bourbon">Wikipedia</a>)</li>
+  <li>Abolition de l'esclavage le 20 décembre 1848 à La Réunion (<a href="https://fr.wikipedia.org/wiki/Esclavage_à_Bourbon">Wikipedia</a>)</li>
   <li>Une critique du Père Noël, par Jena (<a href="https://youtu.be/qmlrchoOu_Q">Youtube</a>)</li>
   <li><em>Je ne suis pas trans dans la forêt</em>, par Loup, <a href="https://pdlarevue.wordpress.com/2020/04/29/je-suis-pas-trans-dans-la-foret/">dans <strong>PD La Revue</strong></a></li>
   <li>Cyberpunk 2077 (jeu vidéo) (<a href="https://fr.wikipedia.org/wiki/Cyberpunk_2077#Accueil_critique">Wikipedia</a>)</li>
