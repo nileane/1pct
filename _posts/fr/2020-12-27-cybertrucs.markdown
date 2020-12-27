@@ -5,7 +5,7 @@ title: "Cybertrucs"
 episode: "#3"
 summary: "On s'étend sur nos fins d'années, on se balade sur le Trombinoscope du Wiki Trans, Jena nous émeut, et on censure un jeu vidéo."
 permalink: /3/
-file: 'https://d3ctxlq1ktw2nl.cloudfront.net/staging/2020-11-27/141080405-44100-2-b0a98ae1e030f.m4a'
+file: 'https://d3ctxlq1ktw2nl.cloudfront.net/staging/2020-11-27/141101708-44100-2-3a236c63debdc.m4a'
 anchor: 'https://anchor.fm/1pct/episodes/3---Cybertrucs-eo91hj'
 spotify: 'https://open.spotify.com/episode/1AJhwYUjhePlcKf1DUO0tk?si=vRUaAE2nR1Wtml5nVdszLA'
 apple: 'https://podcasts.apple.com/fr/podcast/un-podcast-trans/id1535381424'
