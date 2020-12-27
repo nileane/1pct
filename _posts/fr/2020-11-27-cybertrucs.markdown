@@ -6,6 +6,7 @@ episode: "#3"
 summary: "On s'étend sur nos fins d'années, on se balade sur le Trombinoscope du Wiki Trans, Jena nous émeut, et on censure un jeu vidéo."
 permalink: /3/
 file: 'https://d3ctxlq1ktw2nl.cloudfront.net/staging/2020-11-27/141080405-44100-2-b0a98ae1e030f.m4a'
+anchor: 'https://anchor.fm/1pct/episodes/3---Cybertrucs-eo91hj'
 ---
 <p>On s'étend sur nos fins d'années, on se balade sur le Trombinoscope du Wiki Trans, Jena nous émeut, et on censure un jeu vidéo.</p>
 
