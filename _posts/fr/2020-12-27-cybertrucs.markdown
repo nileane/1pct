@@ -9,6 +9,8 @@ file: 'https://d3ctxlq1ktw2nl.cloudfront.net/staging/2020-11-27/141101708-44100-
 anchor: 'https://anchor.fm/1pct/episodes/3---Cybertrucs-eo91hj'
 spotify: 'https://open.spotify.com/episode/1AJhwYUjhePlcKf1DUO0tk?si=vRUaAE2nR1Wtml5nVdszLA'
 apple: 'https://podcasts.apple.com/fr/podcast/un-podcast-trans/id1535381424'
+overcast: 'https://overcast.fm/+kVhV8O89M'
+pocketcasts: 'https://pca.st/episode/3f2fe6ec-8458-403d-8858-92ae6a63d2a5'
 ---
 <p>On s'étend sur nos fins d'années, on se balade sur le Trombinoscope du Wiki Trans, Jena nous émeut, et on censure un jeu vidéo.</p>
 
