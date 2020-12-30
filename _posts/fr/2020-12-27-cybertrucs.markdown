@@ -46,7 +46,7 @@ pocketcasts: 'https://pca.st/episode/3f2fe6ec-8458-403d-8858-92ae6a63d2a5'
   <li><strong>00:26:45</strong> - Charge émotionnelle des fins d'année</li>
   <li><strong>00:30:50</strong> - Une critique du Père Noël par Jena</li>
   <li><strong>00:39:30 </strong>- Les enfants enquêteurices</li>
-  <li><strong>00:43:11</strong> - Musique : EDAM EDAM - Blackhearted</li>
+  <li><strong>00:43:11</strong> - Musique : Edem Edam - Blackhearted</li>
   <li><strong>00:46:58 </strong>- Coming-out surprise</li>
   <li><strong>00:47:25 -</strong> Lecture : <em>Je suis pas trans dans la forêt</em> par Loup, dans PD La Revue</li>
   <li><strong>00:55:00</strong> - Cybercensure 2077</li>
