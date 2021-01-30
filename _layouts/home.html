@@ -19,8 +19,7 @@ home-post: "true"
             <h2>{{ post.title | replace: '<br>', '' }}</h2>
             <time datetime='{{ post.date | date_to_xmlschema }}'><span style="font-weight:bold"></span> {% include date.html date=post.date %}</time>
         </div>
-        <div class="excerpt">{{ post.excerpt | strip_html }}
-        <strong style="color: #ff706b;">···</strong></div>
+        <div class="excerpt">{{ post.excerpt | strip_html }}</div>
     </div>
     </a>
 </section>

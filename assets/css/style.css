@@ -353,14 +353,14 @@ body > header .book-title img {
     box-shadow: 0 2px 5px rgba(0, 0, 0, .1);
 }
 body.home > header .book-title img {
-    height: 100px;
+    height: 120px;
     box-shadow: none;
 }
 
 @media screen and (max-width:500px) {
     body > header .book-title img,
     body.home > header .book-title img {
-        height: 75px;
+        height: 90px;
     }
     body > header h1 {
         font-size: 3.5em;
