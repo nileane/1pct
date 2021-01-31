@@ -6,6 +6,7 @@ episode: "#4"
 summary: "On découvre les sea shanties, Malley nous parle de TransFagTrad, et Jena nous raconte une curieuse histoire de LEGO et d'Éléphante."
 permalink: /4/
 file: 'https://d3ctxlq1ktw2nl.cloudfront.net/staging/2021-0-30/150402996-44100-2-69da12408867.m4a'
+spotify: 'https://open.spotify.com/episode/4TtlvTmeH2iRw9ocW3VSA6?si=uSM_oN8uSH68HDWOKfCllg'
 ---
 <p>On découvre les sea shanties, Malley nous parle de TransFagTrad, et Jena nous raconte une curieuse histoire de LEGO et d'Éléphante.</p>
 
