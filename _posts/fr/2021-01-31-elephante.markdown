@@ -25,6 +25,7 @@ apple: 'https://podcasts.apple.com/fr/podcast/un-podcast-trans/id1535381424#epis
   <li>Le TikTok qui a lancé la frénésie des sea shanties (<a href="https://www.tiktok.com/@nathanevanss/video/6910995345421962498?lang=en"><strong>sur TikTok</strong></a>)</li>
   <li>Tweet de <a href="https://twitter.com/trap_jazz"><strong>@trap_jazz</strong></a> : "this is why you love sea shanties, explained simply" (<a href="https://twitter.com/trap_jazz/status/1349805741922803716?s=21"><strong>sur Twitter</strong></a>)</li>
   <li>Les Mondes Amoureux <a href="https://discord.gg/nrPHCMN5KK"><strong>sur Discord</strong></a></li>
+  <li>bat.cyan <a href="https://www.instagram.com/bat.cyan/"><strong>sur Instagram</strong></a></li>
 </ul>
 <p><strong>Musique</strong></p>
 <ul>
