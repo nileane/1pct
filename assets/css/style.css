@@ -60,7 +60,7 @@
  */
 
 body {
-    font: 10pt "Nunito", Cantarell, Roboto, sans-serif;
+    font: 11pt "Nunito", Cantarell, Roboto, sans-serif;
     background: var(--bg-body-color);
     padding: 0;
     margin: 0;
@@ -436,7 +436,7 @@ body > section {
     max-width: 800px;
     border-radius: 6px;
     margin: 0 auto 20px;
-    font-size: 12pt;
+    font-size: 14pt;
     overflow: hidden;
     position: relative;
     box-shadow: 0 1px 4px rgba(0, 0, 0, .04);
