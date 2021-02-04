@@ -1,6 +1,6 @@
 /*
- * nileane.fr CSS Style
- * https://github.com/nileane/nileane.fr
+ * 1pct.fr CSS Style
+ * https://github.com/nileane/1pct
  * Niléane Dorffer
  * MIT License
  */
@@ -353,14 +353,16 @@ body > header .book-title img {
     box-shadow: 0 2px 5px rgba(0, 0, 0, .1);
 }
 body.home > header .book-title img {
-    height: 120px;
+    height: 150px;
     box-shadow: none;
 }
 
 @media screen and (max-width:500px) {
-    body > header .book-title img,
-    body.home > header .book-title img {
+    body > header .book-title img {
         height: 90px;
+    }
+    body.home > header .book-title img {
+        height: 110px;
     }
     body > header h1 {
         font-size: 3.5em;
