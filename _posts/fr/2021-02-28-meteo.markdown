@@ -1,0 +1,58 @@
+---
+layout: post
+published: true
+title: "Météo"
+episode: "#5"
+summary: "On se perd dans d'incroyables anecdotes météo, Pawline lit un beau texte d'Erin Giglio, et Tieffeline nous rejoint pour parler de Women develop et de sauvetages de poissons 🐠☔"
+permalink: /5/
+file: 'https://d3ctxlq1ktw2nl.cloudfront.net/staging/2021-1-27/ddd58971-45f8-ed9e-821e-1407708a4fb3.mp3'
+---
+<p>On se perd dans d'incroyables anecdotes météo, Pawline lit un beau texte d'Erin Giglio, et Tieffeline nous rejoint pour parler de Women develop et de sauvetages de poissons 🐠☔</p>
+
+<!--more-->
+
+<p><strong>Présent-es :</strong> Niléane (<a href="https://twitter.com/Nildeala">@Nildeala</a>), Tieffeline (<a href="https://twitter.com/Tieffeline"><strong>@Tieffeline</strong></a>), Jena (<a href="https://twitter.com/JenaS_elle">@JenaS_elle</a>), et Pawline (<a href="https://twitter.com/PawLilith">@PawLilith</a>).</p>
+<p><strong>Durée : 1 heure</strong></p>
+<p><strong>Liens et ressources mentionnées</strong></p>
+<ul>
+ <li>CEC : Changement de sexe à l'état civil (<a href="https://wikitrans.co/2019/11/26/changement-de-sexe-a-letat-civil-tgi/">sur le Wiki Trans</a>)</li>
+ <li><em>Totally Trans</em>, un autre podcast trans ! (<a href="https://twitter.com/totallytranspod">sur Twitter</a> et sur <a href="https://totallytrans.buzzsprout.com">totallytrans.buzzsprout.com</a>)</li>
+  <li><a href="https://lamecxpliqueuse.wordpress.com/about/"><em>La Mecxpliqueuse</em></a> et Daisy (<a href="https://twitter.com/GoldfishFight">sur Twitter</a>)</li>
+  <li><em>Philosophy Tube</em> et Abigail Thorne (<a href="https://www.youtube.com/watch?v=AITRzvm0Xtg">sur YouTube</a>)</li>
+  <li><a href="https://writingfromfactorx.wordpress.com/2011/04/02/if-you-can-see-the-invisible-elephant-please-describe-it/"><em>If You Can See The Invisible Elephant, Please Describe&nbsp;It</em></a>, un texte par Dr. Erin Giglio (<a href="https://twitter.com/tweetingmouse?lang=fr">sur Twitter</a>)</li>
+  <li><a href="https://paris.ubisoft.com/fr/womxn-develop-ubisoft/">Women develop</a></li>
+  <li><a href="https://1pct.fr/images/octodonnes.jpg">Photo des Octodonnes</a></li>
+  <li><a href="https://1pct.fr/images/dicite.jpg">Photo de Dicite</a></li>
+  <li>Femme Trans Gang (<a href="https://www.instagram.com/femmetransgang/">sur Insta</a>)</li>
+  <li>Soutien.Transfem (<a href="https://www.instagram.com/soutien.transfem/">sur Insta</a>)</li>
+</ul>
+<p><strong>Musique</strong></p>
+<ul>
+  <li><strong>All Your Bass Belong To Us - Tieffeline (</strong><a href="https://www.youtube.com/watch?v=i72ko8QFFFM"><strong>sur YouTube</strong></a><strong>)</strong></li>
+  <li><strong>La Météo - Danyèl Waro (</strong><a href="https://open.spotify.com/track/6m5Y8oxWjGdmQkLv5IOL7U?si=iQvthAKdS8aBISqsB0oG7g"><strong>sur Spotify</strong></a><strong>)</strong></li>
+</ul>
+<p><strong>Chapitres</strong></p>
+<ul>
+  <li><strong>00:00:00 - </strong>Jena se déshabille</li>
+  <li><strong>00:03:02</strong> - Introduction : Tieffeline nous rejoint !</li>
+  <li><strong>00:04:17</strong> - contact@1pct.fr</li>
+  <li><strong>00:04:37</strong> - Follow-up sur le CEC de Niléane</li>
+  <li><strong>00:07:36</strong> - Pawline est un bébé ?</li>
+  <li><strong>00:09:02</strong> - Neige et frein à main</li>
+  <li><strong>00:11:54</strong> - Poursuivies par une tempête</li>
+  <li><strong>00:13:31</strong> - Petit frère dans une mare gelée</li>
+  <li><strong>00:16:31</strong> - McDo au cœur du cyclone</li>
+  <li><strong>00:21:21</strong> - Migration des tarentules</li>
+  <li><strong>00:22:23</strong> - Sauvetage de poissons</li>
+  <li><strong>00:26:03</strong> - Totally Trans : un autre podcast trans !</li>
+  <li><strong>00:30:11 - Musique : All Your Bass Belong To Us - Tieffeline</strong></li>
+  <li><strong>00:32:48</strong> - Hommage à Daisy et Abigail Thorne</li>
+  <li><strong>00:35:23</strong> - Lecture : Comprendre ce qu’est l’attraction sexuelle quand personne ne veut expliquer</li>
+  <li><strong>00:42:25</strong> - Tieffeline et Women develop</li>
+  <li><strong>00:51:51</strong> - Mais c'est quoi la programmation de bas niveau ?</li>
+  <li><strong>00:52:53</strong> - Follow-up sur les octodonnes</li>
+  <li><strong>00:54:07</strong> - Dicite</li>
+  <li><strong>00:54:41</strong> - Femme Trans Gang</li>
+  <li><strong>00:55:29</strong> - Soutien.Transfem</li>
+  <li><strong>00:56:18</strong> - Conclusion et drama</li>
+</ul>
