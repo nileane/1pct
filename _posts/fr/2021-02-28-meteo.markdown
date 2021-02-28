@@ -3,7 +3,7 @@ layout: post
 published: true
 title: "Météo"
 episode: "#5"
-summary: "On se perd dans d'incroyables anecdotes météo, Pawline lit un beau texte d'Erin Giglio, et Tieffeline nous rejoint pour parler de Women develop et de sauvetages de poissons 🐠☔"
+summary: "On se perd dans d'incroyables anecdotes météo, Pawline lit un beau texte d'Erin Giglio, et Tieffeline nous rejoint pour parler de Womxn develop et de sauvetages de poissons 🐠☔"
 permalink: /5/
 file: 'https://d3ctxlq1ktw2nl.cloudfront.net/staging/2021-1-27/ddd58971-45f8-ed9e-821e-1407708a4fb3.mp3'
 apple: 'https://podcasts.apple.com/fr/podcast/un-podcast-trans/id1535381424#episodeGuid=35bb1dd2-ac8e-4d65-9f94-e7db1d8fca7e'
@@ -11,7 +11,7 @@ pocketcasts: 'https://pca.st/episode/2225a29a-585d-4881-8a88-7141c04ee830'
 overcast: 'https://overcast.fm/+kVhVgGsWs'
 spotify: 'https://open.spotify.com/episode/5FkRVHLY5VIHiwW7O0AOJv?si=n26pJZ9kRtOx4Qk624CjYA'
 ---
-<p>On se perd dans d'incroyables anecdotes météo, Pawline lit un beau texte d'Erin Giglio, et Tieffeline nous rejoint pour parler de Women develop et de sauvetages de poissons 🐠☔</p>
+<p>On se perd dans d'incroyables anecdotes météo, Pawline lit un beau texte d'Erin Giglio, et Tieffeline nous rejoint pour parler de Womxn develop et de sauvetages de poissons 🐠☔</p>
 
 <!--more-->
 
@@ -24,7 +24,7 @@ spotify: 'https://open.spotify.com/episode/5FkRVHLY5VIHiwW7O0AOJv?si=n26pJZ9kRtO
   <li><a href="https://lamecxpliqueuse.wordpress.com/about/"><em>La Mecxpliqueuse</em></a> et Daisy (<a href="https://twitter.com/GoldfishFight">sur Twitter</a>)</li>
   <li><em>Philosophy Tube</em> et Abigail Thorne (<a href="https://www.youtube.com/watch?v=AITRzvm0Xtg">sur YouTube</a>)</li>
   <li><a href="https://writingfromfactorx.wordpress.com/2011/04/02/if-you-can-see-the-invisible-elephant-please-describe-it/"><em>If You Can See The Invisible Elephant, Please Describe&nbsp;It</em></a>, un texte par Dr. Erin Giglio (<a href="https://twitter.com/tweetingmouse?lang=fr">sur Twitter</a>)</li>
-  <li><a href="https://paris.ubisoft.com/fr/womxn-develop-ubisoft/">Women develop</a></li>
+  <li><a href="https://paris.ubisoft.com/fr/womxn-develop-ubisoft/">Womxn develop</a></li>
   <li><a href="https://1pct.fr/images/octodonnes.jpg">Photo des Octodonnes</a></li>
   <li><a href="https://1pct.fr/images/dicite.jpg">Photo de Dicite</a></li>
   <li>Femme Trans Gang (<a href="https://www.instagram.com/femmetransgang/">sur Insta</a>)</li>
