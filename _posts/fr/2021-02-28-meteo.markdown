@@ -6,6 +6,10 @@ episode: "#5"
 summary: "On se perd dans d'incroyables anecdotes météo, Pawline lit un beau texte d'Erin Giglio, et Tieffeline nous rejoint pour parler de Women develop et de sauvetages de poissons 🐠☔"
 permalink: /5/
 file: 'https://d3ctxlq1ktw2nl.cloudfront.net/staging/2021-1-27/ddd58971-45f8-ed9e-821e-1407708a4fb3.mp3'
+apple: 'https://podcasts.apple.com/fr/podcast/un-podcast-trans/id1535381424#episodeGuid=35bb1dd2-ac8e-4d65-9f94-e7db1d8fca7e'
+pocketcasts: 'https://pca.st/episode/2225a29a-585d-4881-8a88-7141c04ee830'
+overcast: 'https://overcast.fm/+kVhVgGsWs'
+spotify: 'https://open.spotify.com/episode/5FkRVHLY5VIHiwW7O0AOJv?si=n26pJZ9kRtOx4Qk624CjYA'
 ---
 <p>On se perd dans d'incroyables anecdotes météo, Pawline lit un beau texte d'Erin Giglio, et Tieffeline nous rejoint pour parler de Women develop et de sauvetages de poissons 🐠☔</p>
 
