@@ -7,7 +7,7 @@ summary: "Violettes sur les ondes, le podcast féministe intersectionnel, a fait
 permalink: /hs2/
 file: 'https://d3ctxlq1ktw2nl.cloudfront.net/staging/2021-2-7/162313577-44100-2-4858ea41132.m4a'
 ---
-<p><img src="/images/CoverViolettes.png" class="align right" style="width:90px;">Violettes sur les ondes, le podcast féministe intersectionnel de l’association Chez Violette avec Radio Moulins, a fait l'effort d'inviter des personnes concernées pour parler genre, et transidentité. Aujourd'hui ces personnes concernées c'est nous : Jena, Pawline et Niléane !</p>
+<p><img src="/images/CoverViolettes.png" class="align right" style="width:200px;">Violettes sur les ondes, le podcast féministe intersectionnel de l’association Chez Violette avec Radio Moulins, a fait l'effort d'inviter des personnes concernées pour parler genre, et transidentité. Aujourd'hui ces personnes concernées c'est nous : Jena, Pawline et Niléane !</p>
 
 <!--more-->
 
