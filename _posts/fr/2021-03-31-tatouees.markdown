@@ -1,0 +1,56 @@
+---
+layout: post
+published: true
+title: "Tatoué·es"
+episode: "#7"
+summary: "C'est le Trans Day of Visibility #TDoV ! Malley replonge dans ses archives et nous parle du superbe film 'No Ordinary Man', puis Axel·le rejoint l'équipe et on découvre avec ellui l'histoire des tatouages et de leurs secrets dans la commu queer 🕵️‍♀️"
+permalink: /7/
+file: 'https://d3ctxlq1ktw2nl.cloudfront.net/staging/2021-2-30/8cbe3508-5075-e182-f26d-31d611dc2bf0.mp3'
+---
+<p>C'est le <em>Trans Day of Visibility</em> <strong>#TDoV</strong> ! Malley replonge dans ses archives et nous parle du superbe film <em>No Ordinary Man</em>, puis Axel·le rejoint l'équipe et on découvre avec ellui l'histoire des tatouages et de leurs secrets dans la commu queer 🕵️‍♀️</p>
+
+<!--more-->
+
+<p><strong>Présent-es :</strong> Tiphaine, Cat, <a href="//@dustyqueersheep@mastodon.art">Axel·le</a>, Merry (<a href="https://twitter.com/Merry_wicce">@Merry_wicce</a>), et Malley.</p>
+<p><strong>Durée : 56 minutes</strong></p>
+<p><strong>Liens et ressources mentionnées</strong></p>
+<ul>
+ <li>La proposition pour la désolidarisation de l'AAH des revenus du conjoint, <a href="https://twitter.com/MichelSavin38/status/1369328944172965896">examinée et adoptée au Sénat</a>.</li>
+ <li><strong>Nouvelle pétition à signer</strong> pour presser les député·es : <a href="https://petitions.assemblee-nationale.fr/initiatives/i-358">Pour la déconjugalisation de l’allocation adulte handicapé et l’adoption du projet de loi n°3970</a></li>
+  <li><em>No Ordinary Man</em> (2020) (<a href="https://en.wikipedia.org/wiki/No_Ordinary_Man_(film)">sur Wikipedia</a>)</li>
+  <li><a href="https://www.babelio.com/auteur/Maxime-Foerster/8478">Maxime Foerster</a></li>
+  <li>James Barry (médecin) (<a href="https://en.wikipedia.org/wiki/James_Barry_(surgeon)">sur Wikipedia</a>)</li>
+  <li><a href="https://linktr.ee/lawrens_shyboi"><strong>Queer Cinema Club</strong></a>, la newsletter films queer-féministes</li>
+  <li><strong>XY Media</strong> : 1er média transféministe audiovisuel en France. (<a href="https://twitter.com/xymediafr">sur Twitter</a> et <a href="https://www.youtube.com/watch?v=fnPJEM8NkP8">sur YouTube</a>)</li>
+</ul>
+<p><strong>Musique</strong></p>
+<ul>
+  <li><strong>Death by Sleep - Fingerspit (</strong><a href="https://fingerspit.bandcamp.com/track/death-by-sleep"><strong>sur Bandcamp</strong></a><strong>)</strong></li>
+</ul>
+<p><strong>Chapitres</strong></p>
+<ul>
+  <li><strong>00:00:00 - </strong>La Positivité</li>
+  <li><strong>00:00:34 - </strong>Introduction</li>
+  <li><strong>00:01:30 -</strong> Arrivée d'Axel·le !</li>
+  <li><strong>00:02:15 -</strong> Update sur l'AAH</li>
+  <li><strong>00:03:19 -</strong> Archives : Maxime Foerster dans Bistouri Oui Oui (18 mai 2006)</li>
+  <li><strong>00:09:11 -</strong> <em>No Ordinary Man</em>, réalisé par Aisling Chin-Yee &amp; Chase Joynt</li>
+  <li><strong>00:14:23 - Musique : Death by Sleep - Fingerspit</strong></li>
+  <li><strong>00:16:40</strong> - Fingerspit et Deconstructeam</li>
+  <li><strong>00:17:41</strong> - Débat impromtu sur la poterie</li>
+  <li><strong>00:19:49</strong> - Tatouages et secrets de la communauté queer</li>
+  <li><strong>00:23:02 -</strong> Malley et ses tatouages</li>
+  <li><strong>00:24:06 -</strong> Encore une histoire de t-shirt</li>
+  <li><strong>00:25:06 -</strong> Malley court désactiver l'alarme</li>
+  <li><strong>00:25:28 -</strong> Avertissement : Mention d'aiguilles</li>
+  <li><strong>00:25:36 -</strong> Malley, Merry, leurs tatouages et les aiguilles.</li>
+  <li><strong>00:30:16 -</strong> Le tatouage et la peur des symboles changeant.</li>
+  <li><strong>00:31:24 -</strong> Vaincre la peur de changer son corps.</li>
+  <li><strong>00:34:16 -</strong> Tatouages gays et Queer Flagging</li>
+  <li><strong>00:35:25 - </strong>Queer Cinema Club, la newsletter films queer-féministes</li>
+  <li><strong>00:36:06 -</strong> XY Media : 1er média transféministe audiovisuel en France.</li>
+  <li><strong>00:38:18 -</strong> <em>The Queen Gambit</em> (série) et les échecs</li>
+  <li><strong>00:44:13 -</strong> Complainte sur <em>Lost</em> (série), 10 ans après.</li>
+  <li><strong>00:48:46 -</strong> Complainte sur <em>Buffy tueuse de vampires</em> (série)</li>
+  <li><strong>00:54:13 -</strong> Conclusion</li>
+</ul>
