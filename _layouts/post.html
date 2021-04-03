@@ -10,7 +10,7 @@ layout: default
         {% endif %}
 
         {% if page.file %}
-        <a href="{{ page.file }}" class="button gray"><i class="fas fa-cloud-download-alt"></i> Télécharger</a>
+        <a href="{{ page.file }}" class="button gray"><i class="fas fa-cloud-download-alt"></i> Télécharger</a><br>
         {% endif %}
 
         <a href="{% if page.apple %}{{ page.apple }}{% else %}{{ site.apple }}{% endif %}" class="button"><i class="fas fa-podcast"></i> Apple Podcasts</a>
