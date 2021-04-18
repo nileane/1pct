@@ -52,7 +52,7 @@
 {% endif %}
 <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 <meta property="og:title" content="{{ page.title }}">
-<meta property="og:image" content="/images/icons/Cover-512px.png">
+<meta property="og:image" content="{{ site.url }}/images/icons/Cover-512px.png">
 <meta property="og:description" content="{{ site.description }}">
 <meta property="og:site_name" content="{{ site.author.name }}">
 <meta property="og:locale" content="en_US">
@@ -62,7 +62,7 @@
 <meta name="twitter:site" content="{{ site.twitter_username }}">
 <meta name="twitter:title" content="{{ page.title }}">
 <meta name="twitter:description" content="{{ site.description }}">
-<meta name="twitter:image" content="https://1pct.fr/images/icons/Cover-512px.png">
+<meta name="twitter:image" content="{{ site.url }}/images/icons/Cover-512px.png">
 
 <!-- Canonical link tag -->
 <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
