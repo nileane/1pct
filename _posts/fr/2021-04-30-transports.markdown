@@ -25,7 +25,7 @@ file: 'https://d3ctxlq1ktw2nl.cloudfront.net/staging/2021-3-29/aadace76-7818-f24
   <li>Trainsgender Flag (<a href="https://www.reddit.com/r/ailways/comments/mdrz0u/trainsgender_flag/">sur Reddit</a>)</li>
   <li><a href="https://www.tcl.fr/plans-du-reseau">Plans du métro de Lyon</a></li>
   <li><a href="https://twitter.com/acceptesst/status/1382307750034702348?s=21">Trajectoires Trans</a> (<a href="https://espacesantetrans.fr/">espacesantetrans.fr</a>)</li>
-  <li><a href="https://wikitrans.co/2019/12/16/changement-de-numero-de-securite-sociale/?preview_id=4171&amp;preview_nonce=497132dbdc&amp;preview=true&amp;_thumbnail_id=4400">Changement de numéro de sécurité sociale sur le Wiki Trans</a></li>
+  <li><a href="https://wikitrans.co/2019/12/16/changement-de-numero-de-securite-sociale/">Changement de numéro de sécurité sociale sur le Wiki Trans</a></li>
 </ul>
 <p><strong>Musique</strong></p>
 <ul>
