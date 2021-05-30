@@ -315,6 +315,7 @@ body > header h1 {
     color: #fff;
     margin: 0;
     font-size: 5em;
+    line-height: 85%;
     vertical-align: middle;
     text-align: center;
 }
@@ -337,6 +338,7 @@ body > header .book-title small {
     font-size: 1.1em;
     display: block;
     color: #fff;
+    margin: .5em 0 0;
 }
 body > header .book-title small a {
     color: #ff706b;
@@ -348,9 +350,8 @@ body > header .book-title small a {
     overflow: hidden;
 }
 body > header .book-title img {
-    height: 110px;
+    height: 90px;
     border-radius: 6px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, .1);
 }
 body.home > header .book-title img {
     height: 150px;
@@ -370,7 +371,7 @@ body.home > header .book-title img {
 }
 
 body.post > header .book-title img {
-    height: 140px;
+    height: 110px;
     margin-bottom: 3em;
     border-radius: 5px;
 }
@@ -508,9 +509,6 @@ ul.index {
 .archive-post .index {
     padding: 20px 0;
 }
-.archive-post .index > div {
-    flex: 1 1 40%;
-}
 .index li:last-child {
     border-bottom: none;
 }
@@ -531,6 +529,26 @@ html[lang=en] .index li.fr-post a > *:not(.lang-indicator) {
 .episode-num {
     font-weight: 700;
     color: var(--fg-post-color);
+}
+.episode-art {
+    border-radius: 6px;
+    float: right;
+    width: 200px;
+    margin: -10px 0 20px 40px;
+}
+.post .episode-art {
+    margin-top: 10px;
+    border-radius: 8px;
+}
+@media screen and (max-width:700px) {
+  .episode-art {
+    width: 150px;
+  }
+}
+@media screen and (max-width:540px) {
+  .episode-art {
+    display: none;
+  }
 }
 
 header .episode-num {
@@ -577,8 +595,9 @@ section.archive-post {
 }
 section.archive-post > a {
     display: block;
-    padding-top: 1rem;
-    padding-bottom: .6rem;
+    padding-top: 2rem;
+    padding-bottom: 1.6rem;
+    min-height: 230px;
 }
 
 .archive-post a .index .excerpt {
@@ -586,16 +605,7 @@ section.archive-post > a {
     font-size: 90%;
     position: relative;
     margin: 1rem 0 0;
-}
-@media screen and (min-width:500px) {
-    .archive-post .index {
-        display: flex;
-        flex-flow: row wrap;
-    }
-    .archive-post a .index .excerpt {
-        padding-left: 20px;
-        margin-top: 0;
-    }
+    line-height: 1.3;
 }
 
 
@@ -631,8 +641,7 @@ figure {
     font-family: "Nunito", sans-serif;
 }
 .post time {
-    color: #ccc;
-    font-size: 90%;
+    font-weight: bold;
     display: block;
 }
 .post figure.classic_headimg {

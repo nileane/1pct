@@ -3,14 +3,17 @@ layout: default
 ---
 <section>
     <div class="post">
-        {% if page.headimg_url %}
-        <figure class="classic_headimg">
-            <img src="{{ page.headimg_url }}">
-        </figure>
-        {% endif %}
 
         {% if page.file %}
-        <a href="{{ page.file }}" class="button gray"><i class="fas fa-cloud-download-alt"></i> Télécharger</a><br>
+        <audio controls="" preload="metadata"><source src="{{ page.file }}" type="audio/mpeg"></audio>
+        {% endif %}
+
+        {% unless page.art == false %}
+        <img class="episode-art" src="/images/art/{{ page.episode | remove:'#' }}.png" alt="Illustration de l'épisode {{ page.episode }}">
+        {% endunless %}
+
+        {% if page.file %}
+        <a href="{{ page.file }}" class="button gray"><i class="fas fa-cloud-download-alt"></i> Télécharger</a>
         {% endif %}
 
         <a href="{% if page.apple %}{{ page.apple }}{% else %}{{ site.apple }}{% endif %}" class="button"><i class="fas fa-podcast"></i> Apple Podcasts</a>
@@ -21,9 +24,7 @@ layout: default
 
         <a href="{% if page.overcast %}{{ page.overcast }}{% else %}{{ site.overcast }}{% endif %}" class="button overcast"><span class="icon-overcast"></span> Overcast</a>
 
-        {% if page.file %}
-        <audio controls="" preload="metadata"><source src="{{ page.file }}" type="audio/mpeg"></audio>
-        {% endif %}
+        <p><time datetime='{{ page.date | date_to_xmlschema }}'><span style="font-weight:bold"></span>// Publié le {% include date.html date=page.date %}</time></p>
 
         {{ content }}
     </div>
