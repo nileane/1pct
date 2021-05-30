@@ -11,20 +11,21 @@ file: 'https://d3ctxlq1ktw2nl.cloudfront.net/staging/2021-3-29/aadace76-7818-f24
 
 <!--more-->
 
-<p><strong>Présent-es :</strong> Niléane (<a href="https://twitter.com/Nildeala"><strong>@Nildeala</strong></a>), Louie, Jena (<a href="https://twitter.com/JenaS_elle"><strong>@JenaS_elle</strong></a>) et Paw (<a href="https://twitter.com/PawLilith"><strong>@PawLilith</strong></a>).</p>
+<p><strong>Présent-es :</strong> Niléane (<a href="https://twitter.com/Nildeala"><strong>@Nildeala</strong></a>), Louie (<a href="https://twitter.com/LouieOnTheMoon"><strong>@LouieOnTheMoon</strong></a>), Jena (<a href="https://twitter.com/JenaS_elle"><strong>@JenaS_elle</strong></a>) et Paw (<a href="https://twitter.com/PawLilith"><strong>@PawLilith</strong></a>).</p>
 <p><strong>Durée : 1 heure 24 minutes</strong></p>
 <p><strong>Liens et ressources mentionnées</strong></p>
 <ul>
- <li>Jasmine, sur Twitter : <a href="https://twitter.com/jasmineuphorie">@jasmineuphorie</a></li>
- <li>Ponny <a href="https://twitter.com/thewoodpony">@thewoodpony</a>, et son Twitter d'artiste <a href="https://twitter.com/WoodDraws">@WoodDraws</a></li>
- <li><a href="https://1pct.fr/images/sculpture.jpg">Photo de la sculpture de Paw</a></li>
- <li>Julia Serano (<a href="https://twitter.com/JuliaSerano">@JuliaSerano</a>), <a href="http://juliaserano.com">juliaserano.com</a>, et son <a href="https://www.patreon.com/juliaserano">Patreon</a>.</li>
+  <li>Jasmine, sur Twitter : <a href="https://twitter.com/jasmineuphorie">@jasmineuphorie</a></li>
+  <li>Ponny <a href="https://twitter.com/thewoodpony">@thewoodpony</a>, et son Twitter d'artiste <a href="https://twitter.com/WoodDraws">@WoodDraws</a></li>
+  <li><a href="https://1pct.fr/images/sculpture.jpg">Photo de la sculpture de Paw</a></li>
+  <li>Julia Serano (<a href="https://twitter.com/JuliaSerano">@JuliaSerano</a>), <a href="http://juliaserano.com">juliaserano.com</a>, et son <a href="https://www.patreon.com/juliaserano">Patreon</a>.</li>
   <li><a href="http://emmaus-connect.org/">Emmaüs Connect</a></li>
   <li><a href="https://world.hey.com/nileane/twitter-ne-m-angoisse-plus-mes-petites-astuces-2f408c99"><em>Twitter ne m’angoisse plus : mes petites astuces</em></a></li>
+  <li>Lil Nas X - MONTERO (Call Me By Your Name) (<a href="https://www.youtube.com/watch?v=6swmTBVI83k">sur YouTube</a>)</li>
   <li>Trainsgender Flag (<a href="https://www.reddit.com/r/ailways/comments/mdrz0u/trainsgender_flag/">sur Reddit</a>)</li>
   <li><a href="https://www.tcl.fr/plans-du-reseau">Plans du métro de Lyon</a></li>
   <li><a href="https://twitter.com/acceptesst/status/1382307750034702348?s=21">Trajectoires Trans</a> (<a href="https://espacesantetrans.fr/">espacesantetrans.fr</a>)</li>
-  <li><a href="https://wikitrans.co/2019/12/16/changement-de-numero-de-securite-sociale/?preview_id=4171&amp;preview_nonce=497132dbdc&amp;preview=true&amp;_thumbnail_id=4400">Changement de numéro de sécurité sociale sur le Wiki Trans</a></li>
+  <li><a href="https://wikitrans.co/2019/12/16/changement-de-numero-de-securite-sociale/">Changement de numéro de sécurité sociale sur le Wiki Trans</a></li>
 </ul>
 <p><strong>Musique</strong></p>
 <ul>
