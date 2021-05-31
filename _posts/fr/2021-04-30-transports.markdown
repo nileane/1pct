@@ -5,6 +5,10 @@ title: "Les TRANSports"
 episode: "#8"
 summary: "On parle de sculptures de vulves, de self-care sur Twitter, puis on déverse notre grand intérêt pour les TRAINS. Louie rejoint ensuite l'équipe et on découvre avec lui pourquoi La Planète au Trésor (2001) c'est trans 🤯‍"
 permalink: /8/
+overcast: 'https://overcast.fm/+kVhW1vPEE'
+pocketcasts: 'https://pca.st/episode/54dd9d53-128f-4a73-8861-21c5d069845e'
+spotify: 'https://open.spotify.com/episode/2WqjNK3LHjP0Aqwy0x5Mrr?si=M8zwX889ROavf6LLVZqHJw'
+apple: 'https://podcasts.apple.com/fr/podcast/un-podcast-trans/id1535381424?i=1000519354791'
 file: 'https://d3ctxlq1ktw2nl.cloudfront.net/staging/2021-3-29/aadace76-7818-f24e-d9e6-cbd3f9aaa125.mp3'
 ---
 <p>On parle de sculptures de vulves, de self-care sur Twitter, puis on déverse notre grand intérêt pour les TRAINS. Louie rejoint ensuite l'équipe et on découvre avec lui pourquoi La Planète au Trésor (2001) c'est trans 🤯</p>

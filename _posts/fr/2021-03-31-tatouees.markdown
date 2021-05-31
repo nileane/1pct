@@ -5,6 +5,10 @@ title: "Tatoué·es"
 episode: "#7"
 summary: "C'est le Trans Day of Visibility #TDoV ! Malley replonge dans ses archives et nous parle du superbe film 'No Ordinary Man', puis Axel·le rejoint l'équipe et on découvre avec ellui l'histoire des tatouages et de leurs secrets dans la commu queer 🕵️‍♀️"
 permalink: /7/
+overcast: 'https://overcast.fm/+kVhX4Cb1w'
+pocketcasts: 'https://pca.st/episode/2d06d057-1218-44d8-8187-7eee184b7933'
+spotify: 'https://open.spotify.com/episode/5zAjg3FGjaQefHgbV1uWYj?si=ecsO_PBlRu-q0LUq7641zA'
+apple: 'https://podcasts.apple.com/fr/podcast/un-podcast-trans/id1535381424?i=1000515152820'
 file: 'https://d3ctxlq1ktw2nl.cloudfront.net/staging/2021-2-30/8cbe3508-5075-e182-f26d-31d611dc2bf0.mp3'
 ---
 <p>C'est le <em>Trans Day of Visibility</em> <strong>#TDoV</strong> ! Malley replonge dans ses archives et nous parle du superbe film <em>No Ordinary Man</em>, puis Axel·le rejoint l'équipe et on découvre avec ellui l'histoire des tatouages et de leurs secrets dans la commu queer 🕵️‍♀️</p>

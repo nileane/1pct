@@ -5,6 +5,10 @@ title: "L'Épisode Cis ?"
 episode: "#6"
 summary: "Quelques blagues cisphobes pour l'épisode 6 👀"
 permalink: /6/
+overcast: 'https://overcast.fm/+kVhWkvgqE'
+pocketcasts: 'https://pca.st/episode/c8f93536-f603-4320-8bac-69e3deb19711'
+spotify: 'https://open.spotify.com/episode/045SPsVj3xfW5IgrLFm7rk?si=MF2GoLJ2Q2OewLGLVclE7g'
+apple: 'https://podcasts.apple.com/fr/podcast/un-podcast-trans/id1535381424?i=1000515152821'
 file: 'https://d3ctxlq1ktw2nl.cloudfront.net/staging/2021-2-29/170280792-44100-2-cf1adafc7f067.m4a'
 ---
 <p>Quelques blagues cisphobes pour l'épisode 6 👀</p>
