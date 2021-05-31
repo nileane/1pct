@@ -7,6 +7,8 @@ summary: "‍On revisite ensemble ces lieux qui ont marqué nos transitions 🗺
 permalink: /9/
 spotify: 'https://open.spotify.com/episode/3f4aQs8WfPmhzh7lUaZNkJ?si=-Sp2IcqSQGm3lidw84zzmg'
 overcast: 'https://overcast.fm/+kVhW3G0W0'
+pocketcasts: 'https://pca.st/episode/e6819b6b-9dfd-4834-ad62-016b71a86557'
+apple: 'https://podcasts.apple.com/fr/podcast/un-podcast-trans/id1535381424?i=1000523659162'
 file: 'https://d3ctxlq1ktw2nl.cloudfront.net/staging/2021-4-30/bf7b57c9-945f-f9c7-da29-9752a0103c1f.mp3'
 ---
 <p>On revisite ensemble ces lieux qui ont marqué nos transitions 🗺, Malley débute une enquête trans 🕵️, on redécouvre Mulan, puis Jena fait un émouvant câlin virtuel à Ezra Furman 💜</p>
