@@ -1,0 +1,45 @@
+---
+layout: post
+published: true
+title: "Marche 🏳️‍🌈🏳️‍⚧️"
+episode: "#10"
+summary: "‍On était en plein cortège trans à Marche des Fiertés lyonnaise 🏳️‍🌈, Cat nous raconte l'histoire de la mascotte trans de Linux 🦊, puis Tiphaine découvre une blague mythologique planquée dans le jeu Hadès 📚"
+permalink: /10/
+file: 'https://d3ctxlq1ktw2nl.cloudfront.net/staging/2021-5-29/50e6dc8c-2616-354e-e9e7-fd1c5690ca10.mp3'
+---
+<p>On était en plein cortège trans à Marche des Fiertés lyonnaise 🏳️‍🌈, Cat nous raconte l'histoire de la mascotte trans de Linux 🦊, puis Tiphaine découvre une blague mythologique planquée dans le jeu Hadès 📚</p>
+
+<!--more-->
+
+<p><strong>Présent-es :</strong> Niléane (<a href="https://twitter.com/Nildeala"><strong>@Nildeala</strong></a>), Tiphaine, Cat, Merry (<a href="https://twitter.com/Merry_wicce">@Merry_wicce</a>), et Malley.</p>
+<p><strong>Durée : 1 heure 2 minutes</strong></p>
+<p><strong>Liens et ressources mentionnées</strong></p>
+<ul>
+ <li><a href="https://linktr.ee/cfl_lyon">Collectif Fiertés en Lutte</a>, organisateur de la Marche des Fiertés de Lyon et ses environs.</li>
+ <li><a href="https://chrysalide-asso.fr/">Chrysalide</a>, association militante de support et de diffusion d'informations sur les transidentités.</li>
+  <li><a href="https://xenia-linux-site.glitch.me/">Xenia</a>, la mascotte trans alternative de Linux.</li>
+  <li><a href="https://youtu.be/h3Gs1t2KH1s">LGBTQ Interview With Bunny Bennett From <em>Steam Powered Giraffe</em></a></li>
+  <li>The Orion Experience sur <a href="https://theorionexperience.bandcamp.com">Bandcamp</a>.</li>
+  <li><em>La Free Kriegsspiel Revolution</em> (<a href="https://www.cestpasdujdr.fr/la-free-kriegsspiel-revolution/">cestpasdujdr.fr</a>)</li>
+  <li><em>[Partie enregistrée] Umwald : Le blob&nbsp;nucléaire </em>(<a href="https://outsiderart.blog/2021/05/11/partie-enregistree-umwald-le-blob-nucleaire/">outsiderart.blog</a>)</li>
+  <li><em>Nervure</em> sur <a href="https://merry.blog.wehost.lgbt/categories/nervure/">le blog de Merry</a>, et <a href="https://anchor.fm/nervure/">en podcast</a>.</li>
+</ul>
+<p><strong>Musique</strong></p>
+<ul>
+  <li><strong>Musique : Cult of Dionysus - The Orion Experience (</strong><a href="https://theorionexperience.bandcamp.com/track/cult-of-dionysus"><strong>Bandcamp</strong></a><strong>, </strong><a href="https://open.spotify.com/album/68OF44SIppyRCY9NTWrsK2?highlight=spotify:track:4zg2zMNSI0W8ipGA32kKp5"><strong>Spotify</strong></a><strong>)</strong></li>
+</ul>
+<p><strong>Chapitres</strong></p>
+<ul>
+  <li><strong>00:00:00 - </strong>Useless Lesbian ?</li>
+  <li><strong>00:03:06 - </strong>Introduction et performance live</li>
+  <li><strong>00:06:25 - </strong>Cortège trans à la Marche des Fiertés, Lyon 2021</li>
+  <li><strong>00:19:26 - </strong>Merry a laissé tomber son genre</li>
+  <li><strong>00:21:15 - </strong>Xenia, la mascotte trans alternative de Linux</li>
+  <li><strong>00:27:11 -</strong> The Orion Experience, Polyamour et Dionysos</li>
+  <li><strong>00:28:31 - </strong>Une blague mythologique</li>
+  <li><strong>00:37:36 - Musique : Cult of Dionysus - The Orion Experience</strong></li>
+  <li><strong>00:40:42 - </strong>Jeux de rôle, et la Free Kriegsspiel Revolution</li>
+  <li><strong>00:49:39 - </strong>'Nervure', le projet d'écriture de Merry</li>
+  <li><strong>00:54:09 - </strong>Conclusion et cadeau d'anniversaire</li>
+  <li><strong>00:58:38 - </strong>Drama</li>
+</ul>
