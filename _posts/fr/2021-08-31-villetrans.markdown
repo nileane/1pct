@@ -7,7 +7,7 @@ summary: "‍Entre 2 astuces pour croiser des mecs dans la rue, on brainstorm su
 permalink: /11/
 file: 'https://d3ctxlq1ktw2nl.cloudfront.net/staging/2021-7-31/745f424a-38a3-1ec5-52a8-f83eb0e7ef64.mp3'
 ---
-Entre 2 astuces pour croiser des mecs dans la rue, on brainstorm sur nos réapproriations de la ville, puis Louie nous fait découvrir Dorian Electra, et Malley partage ses conseils pour mieux s’archiver. 💡
+Entre 2 astuces pour croiser des mecs dans la rue, on brainstorm sur nos réappropriations de la ville, puis Louie nous fait découvrir Dorian Electra, et Malley partage ses conseils pour mieux s’archiver. 💡
 
 <!--more-->
 
