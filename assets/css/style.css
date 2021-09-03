@@ -354,7 +354,7 @@ body > header .book-title img {
     border-radius: 6px;
 }
 body.home > header .book-title img {
-    height: 150px;
+    height: 130px;
     box-shadow: none;
 }
 
