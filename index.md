@@ -5,4 +5,4 @@ layout: home
 permalink: /
 ---
 ## On bavarde, on se redécouvre, et puis on est trans ✨
-Nos vies ne tournent pas toujours autour de nos transidentités, ce podcast non plus : tous les mois nous discutons de nos activités, de nos passions, mais parfois aussi du fait qu’on est trans 🏳️‍⚧️✨
+Un Podcast Trans est une conversation mensuelle entre ami·es trans. Souvent invisibles, nos échanges du quotidien ont une grande valeur militante, qu’ils soient des plus engagés ou des plus innocents. Alors nous souhaitons rendre visible nos rires et nos pleurs, pour nos adelphes et pour celles et ceux qui nous découvrent. 💜🏳️‍⚧️
