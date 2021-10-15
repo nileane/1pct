@@ -11,7 +11,7 @@ Entre 2 astuces pour croiser des mecs dans la rue, on brainstorm sur nos réappr
 
 <!--more-->
 
-**Présent-es :** Jena ([@JenaS_elle](https://twitter.com/JenaS_elle)), Merry ([@Merry_wicce](https://twitter.com/Merry_wicce)), Niléane ([@Nildeala](https://twitter.com/Nildeala)), Louie ([@LouieOnTheMoon](https://twitter.com/LouieOnTheMoon)) et Malley ([@ouiMalley](https://twitter.com/LouieOnTheMoon)).
+**Présent-es :** Jena ([@JenaPhamSelle](https://twitter.com/JenaPhamSelle)), Merry ([@Merry_postfurry](https://twitter.com/Merry_postfurry)), Niléane ([@Nildeala](https://twitter.com/Nildeala)), Louie ([@LouieOnTheMoon](https://twitter.com/LouieOnTheMoon)) et Malley ([@ouiMalley](https://twitter.com/ouiMalley)).
 
 **Durée : 1 heure 16 minutes**
 
