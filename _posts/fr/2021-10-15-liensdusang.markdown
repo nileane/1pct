@@ -21,7 +21,7 @@ file: 'https://d3ctxlq1ktw2nl.cloudfront.net/staging/2021-9-15/08b720f9-8120-9a7
   <li><a href="https://twitter.com/wiki_trans/status/1446092901826633728?s=21">Réponse du laboratoire Novartis</a> (Twitter)</li>
   <li><a href="https://fr.wikipedia.org/wiki/Hyst%C3%A9rectomie?wprov=sfti1">Hystérectomie</a> sur Wikipedia</li>
   <li><a href="https://wikitrans.co/2021/09/22/la-mammectomie/">La Mammectomie</a> sur le Wiki Trans</li>
-  <li><a href="https://www.briandavidgilbert.com/">David Brian Gilbert</a></li>
+  <li><a href="https://www.briandavidgilbert.com/">Bria David Gilbert</a></li>
   <li><a href="https://www.them.us/story/american-boys-transmasculine-photos"><em>American Boys: 12 Beautiful Portraits of Transmasculine People Across America</em></a></li>
 </ul>
 <p><strong>Chapitres</strong></p>
