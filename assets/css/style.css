@@ -292,7 +292,7 @@ body > header {
 }
 @media screen and (max-width:800px) {
     body > header {
-        margin-top: 5rem;
+        margin-top: 2rem;
         padding: 4rem 9% 4rem;
     }
 
@@ -354,7 +354,7 @@ body > header .book-title img {
     border-radius: 6px;
 }
 body.home > header .book-title img {
-    height: 150px;
+    height: 130px;
     box-shadow: none;
 }
 
@@ -435,7 +435,7 @@ body.post > header .book-title img {
 
 body > section {
     background: var(--bg-section-color);
-    width: calc(100% - 25px);
+    width: 100%;
     max-width: 800px;
     border-radius: 6px;
     margin: 0 auto 20px;
@@ -444,6 +444,11 @@ body > section {
     position: relative;
     box-shadow: 0 1px 4px rgba(0, 0, 0, .04);
     transition: all .2s;
+}
+@media screen and (max-width:800px) {
+    body > section {
+      border-radius: 0;
+    }
 }
 body > section.faded {
     background: none;
@@ -475,7 +480,6 @@ body > section > * {
   .introducing h2 {
       font-size: 2em;
       grid-column: 1 / 3;
-      margin-bottom: 0;
       grid-row: 1;
   }
   .introducing p:first-of-type {
