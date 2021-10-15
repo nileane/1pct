@@ -16,7 +16,9 @@ file: 'https://d3ctxlq1ktw2nl.cloudfront.net/staging/2021-9-15/08b720f9-8120-9a7
 <p><strong>Durée : 1 heure 34 minutes</strong></p>
 <p><strong>Liens et ressources mentionnées</strong></p>
 <ul>
-  <li><a href="https://wikitrans.co/2021/09/02/traitements-hormonaux-feminisants-de-la-transparence-maintenant/"><em>Traitements hormonaux féminisants : de la transparence maintenant !</em></a><em> - </em>Lettre ouverte adressée à l'ANSM.</li>
+  <li><a href="https://wikitrans.co/2021/09/02/traitements-hormonaux-feminisants-de-la-transparence-maintenant/"><em>Traitements hormonaux féminisants : de la transparence maintenant !</em></a><em> </em>(Wiki Trans) <em>- </em>Lettre ouverte adressée à l'ANSM.</li>
+  <li><a href="https://www.slate.fr/story/216948/personnes-trans-demandent-transparence-traitements-hormonaux-rupture-stock-arret-commercialisation-vivelledot-patch-transdermique-oestradiol-labo-sandoz-novartis"><em>La pénurie de patchs hormonaux complique la vie des personnes trans</em></a> (Slate)</li>
+  <li><a href="https://twitter.com/wiki_trans/status/1446092901826633728?s=21">Réponse du laboratoire Novartis</a> (Twitter)</li>
   <li><a href="https://fr.wikipedia.org/wiki/Hyst%C3%A9rectomie?wprov=sfti1">Hystérectomie</a> sur Wikipedia</li>
   <li><a href="https://wikitrans.co/2021/09/22/la-mammectomie/">La Mammectomie</a> sur le Wiki Trans</li>
   <li><a href="https://www.briandavidgilbert.com/">David Brian Gilbert</a></li>
