@@ -29,7 +29,7 @@ file: 'https://d3ctxlq1ktw2nl.cloudfront.net/staging/2021-9-15/08b720f9-8120-9a7
   <li><strong>00:00:00 - </strong>Histoires d'affiches</li>
   <li><strong>00:02:26 </strong>- Comings-out dans l'air</li>
   <li><strong>00:08:19 </strong>- Introduction et vos retours !</li>
-  <li><strong>00:17:09 </strong>- Lettre ouverte à l'ANSM pour une plus grande transparence sur la disponiblités de nos THS</li>
+  <li><strong>00:17:09 </strong>- Lettre ouverte à l'ANSM pour une plus grande transparence sur la disponibilité de nos THS</li>
   <li><strong>00:19:54 - </strong>Paw et l'hystérectomie !</li>
   <li><strong>00:28:05 - </strong>Louie et la mammectomie !</li>
   <li><strong>00:38:28 - </strong>Jena et les calculs</li>
