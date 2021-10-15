@@ -5,6 +5,10 @@ title: "Ville trans"
 episode: "#11"
 summary: "‍Entre 2 astuces pour croiser des mecs dans la rue, on brainstorm sur nos réappropriations de la ville, puis Louie nous fait découvrir Dorian Electra, et Malley partage ses conseils pour mieux s’archiver. 💡"
 permalink: /11/
+spotify: 'https://open.spotify.com/episode/3UpCGSjaDYudzgi1e6717O?si=LlULabKyQEGpelJat2PjDA'
+overcast: 'https://overcast.fm/+kVhXMeYls'
+pocketcasts: 'https://pca.st/episode/8ffa4923-6d7d-4eb3-b58b-9a7c3a79c991'
+apple: 'https://podcasts.apple.com/fr/podcast/un-podcast-trans/id1535381424?i=1000533882179'
 file: 'https://d3ctxlq1ktw2nl.cloudfront.net/staging/2021-7-31/745f424a-38a3-1ec5-52a8-f83eb0e7ef64.mp3'
 ---
 Entre 2 astuces pour croiser des mecs dans la rue, on brainstorm sur nos réappropriations de la ville, puis Louie nous fait découvrir Dorian Electra, et Malley partage ses conseils pour mieux s’archiver. 💡
