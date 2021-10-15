@@ -5,6 +5,10 @@ title: "Marche 🏳️‍🌈🏳️‍⚧️"
 episode: "#10"
 summary: "‍On était en plein cortège trans à Marche des Fiertés lyonnaise 🏳️‍🌈, Cat nous raconte l'histoire de la mascotte trans de Linux 🦊, puis Tiphaine découvre une blague mythologique planquée dans le jeu Hades 📚"
 permalink: /10/
+spotify: 'https://open.spotify.com/episode/3bjBw05ezfURstJcU05Y4h?si=dN8673acSaCF-7rmoK0YPw'
+overcast: 'https://overcast.fm/+kVhWqzbY0'
+pocketcasts: 'https://pca.st/episode/3134e5a1-49c8-45a1-a617-81818be2befe'
+apple: 'https://podcasts.apple.com/fr/podcast/un-podcast-trans/id1535381424?i=1000527320585'
 file: 'https://d3ctxlq1ktw2nl.cloudfront.net/staging/2021-5-29/a50d844a-526d-4ff7-760b-568a11b53433.mp3'
 ---
 <p>On était en plein cortège trans à la Marche des Fiertés lyonnaise 🏳️‍🌈, Cat nous raconte l'histoire de la mascotte trans de Linux 🦊, puis Tiphaine découvre une blague mythologique planquée dans le jeu Hades 📚</p>
