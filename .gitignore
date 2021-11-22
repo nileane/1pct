@@ -2,3 +2,4 @@ _site/
 *~
 *.sqlite
 Gemfile.lock
+vendor/
