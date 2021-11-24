@@ -22,24 +22,24 @@
 
 {% feed_meta %}
 
-{% assign page_image = '/images/Cover.png' %}
+{% assign page_image = '/images/couverture.png' %}
 
 <!-- generics -->
-<link rel="icon" type="image/svg+xml" href="/images/icons/favicon.svg">
-<link rel="icon" href="/images/icons/favicon-32px.png" sizes="32x32">
-<link rel="icon" href="/images/icons/favicon-57px.png" sizes="57x57">
-<link rel="icon" href="/images/icons/favicon-128px.png" sizes="128x128">
-<link rel="icon" href="/images/icons/favicon-192px.png" sizes="192x192">
-<link rel="icon" href="/images/icons/favicon-228px.png" sizes="228x228">
-<link rel="icon" href="/images/icons/favicon-400px.png" sizes="400x400">
+<link rel="icon" type="image/svg+xml" href="/images/icons/fav.svg">
+<link rel="icon" href="/images/icons/fav-32px.png" sizes="32x32">
+<link rel="icon" href="/images/icons/fav-57px.png" sizes="57x57">
+<link rel="icon" href="/images/icons/fav-128px.png" sizes="128x128">
+<link rel="icon" href="/images/icons/fav-192px.png" sizes="192x192">
+<link rel="icon" href="/images/icons/fav-228px.png" sizes="228x228">
+<link rel="icon" href="/images/icons/fav-400px.png" sizes="400x400">
 
 <!-- Android -->
-<link rel="shortcut icon" sizes="196x196" href="/images/icons/favicon-196px.png">
+<link rel="shortcut icon" sizes="196x196" href="/images/icons/fav-196px.png">
 
 <!-- iOS -->
-<link rel="apple-touch-icon" href="/images/icons/favicon-120px.png" sizes="120x120">
-<link rel="apple-touch-icon" href="/images/icons/favicon-152px.png" sizes="152x152">
-<link rel="apple-touch-icon" href="/images/icons/favicon-180px.png" sizes="180x180">
+<link rel="apple-touch-icon" href="/images/icons/fav-120px.png" sizes="120x120">
+<link rel="apple-touch-icon" href="/images/icons/fav-152px.png" sizes="152x152">
+<link rel="apple-touch-icon" href="/images/icons/fav-180px.png" sizes="180x180">
 
 <!-- Social: Facebook / Open Graph -->
 {% if page.id %}
@@ -53,7 +53,7 @@
 {% endif %}
 <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 <meta property="og:title" content="{{ page.title }}">
-<meta property="og:image" content="{{ site.url }}/images/icons/Cover-512px.png">
+<meta property="og:image" content="{{ site.url }}/images/icons/couverture-512px.png">
 <meta property="og:description" content="{{ site.description }}">
 <meta property="og:site_name" content="{{ site.author.name }}">
 <meta property="og:locale" content="en_US">
@@ -68,7 +68,7 @@
 <!-- Canonical link tag -->
 <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
-<link rel="stylesheet" href="/assets/css/style.css?03092021">
+<link rel="stylesheet" href="/assets/css/style.css?24112021">
 <link rel="stylesheet" href="/assets/css/syntax.css">
 <link rel="stylesheet" href="/assets/icons/css/all.css">
 <link rel="stylesheet" href="/assets/fonts/social/social.css">
