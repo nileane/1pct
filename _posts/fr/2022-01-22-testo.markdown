@@ -1,0 +1,47 @@
+---
+layout: post
+published: true
+title: "Testo"
+episode: "#14"
+summary: "Charlie rejoint l’équipe, Jena enquête sur nos adelphes trans chez LEGO, Malley déroule à nouveau ses archives, et Louie fait une nouvelle interprétation trans d’une chanson ! 🎥🎤🏳️‍⚧️"
+permalink: /14/
+file: 'https://d3ctxlq1ktw2nl.cloudfront.net/staging/2022-0-21/1af6fffd-b41e-70c1-2719-2700347c5db0.mp3'
+---
+<p><em>Charlie rejoint l’équipe, Jena enquête sur nos adelphes trans chez LEGO, Malley déroule à nouveau ses archives, et Louie fait une nouvelle interprétation trans d’une chanson ! 🎥🎤🏳️‍⚧️</em></p>
+
+<!--more-->
+
+<p><strong>Présent-es :</strong> Niléane (<a href="https://twitter.com/Nildeala"><strong>@Nildeala</strong></a>), Charlie (<a href="https://twitter.com/evilnordlys"><strong>@evilnordlys</strong></a>), Paw (<a href="https://twitter.com/PawLilith"><strong>@PawLilith</strong></a>), Malley (<a href="https://twitter.com/ouiMalley"><strong>@ouiMalley</strong></a>) Jena (<a href="https://twitter.com/JenaPhamSelle"><strong>@JenaPhamSelle</strong></a>), Louie (<a href="https://twitter.com/LouieOnTheMoon"><strong>@LouieOnTheMoon</strong></a>).</p>
+<p><strong>Durée : 1 heure 38 minutes</strong></p>
+<p><strong>Liens et ressources mentionnées</strong></p>
+<ul>
+ <li>Charlie <a href="https://twitter.com/evilnordlys">sur Twitter</a>, <a href="https://instagram.com/ch_fbr">sur Instagram</a>.</li>
+ <li>Représentrans (<a href="https://representrans.fr/">representrans.fr</a>)</li>
+  <li><em>A Good Man </em>(film, 2020 -- <a href="https://representrans.fr/cis-gaze/a-good-man/">sur representrans.fr</a>)</li>
+  <li>Collectif Fiertés en Lutte Lyon (<a href="https://www.fierte.net/">fierte.net</a>)</li>
+  <li><em>Shinjuku Boys </em>(film, 1995 -- <a href="https://fr.wikipedia.org/wiki/Shinjuku_Boys">sur Wikipedia</a>)</li>
+  <li>Mémoires Minoritaires (<a href="https://www.facebook.com/memoiresminoritaires/">sur Facebook</a>)</li>
+  <li>Le Brrrazero (<a href="https://brrrazero.org/">brrrazero.org</a>)</li>
+  <li><em>Everyone is awesome</em>, <a href="https://www.lego.com/en-us/product/everyone-is-awesome-40516">le set LEGO</a>.</li>
+</ul>
+<p><strong>Musique</strong></p>
+<ul>
+  <li>What Makes a Good Man? - The Heavy<strong> </strong>(<a href="https://en.wikipedia.org/wiki/What_Makes_a_Good_Man%3F">sur Wikipedia</a>)</li>
+</ul>
+<p><strong>Chapitres</strong></p>
+<ul>
+  <li><strong>00:00:00 - </strong>Note de service</li>
+  <li><strong>00:01:14 - </strong>Pre-show : drag et testostérone</li>
+  <li><strong>00:13:51 - </strong>Générique et Introduction</li>
+  <li><strong>00:19:04 - </strong>Mais qui est Charlie ?!</li>
+  <li><strong>00:23:51 - </strong>Charlie militant : Représentrans, le CFL, …</li>
+  <li><strong>00:30:42 - </strong>Quand on fait tâche</li>
+  <li><strong>00:42:49 - </strong>Archives de Malley : Shinjuky Boys (film)</li>
+  <li><strong>00:59:48 - </strong>Musique : What Makes a Good Man? - The Heavy</li>
+  <li><strong>01:15:00 - </strong>Jena : LEGO Furry Trans</li>
+  <li><strong>01:23:58 - </strong>Maurice 🐱</li>
+  <li><strong>01:25:30 - </strong>LEGO Furry Trans (suite)</li>
+  <li><strong>01:28:44 - </strong>Influenceuse vêtements</li>
+  <li><strong>01:31:32 - </strong>Louie : le Free Shop à Montpellier</li>
+  <li><strong>01:32:23 - </strong>Conclusion</li>
+</ul>
