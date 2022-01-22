@@ -601,7 +601,6 @@ section.archive-post > a {
     display: block;
     padding-top: 2rem;
     padding-bottom: 1.6rem;
-    min-height: 230px;
 }
 
 .archive-post a .index .excerpt {
