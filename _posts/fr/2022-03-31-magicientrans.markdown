@@ -3,11 +3,11 @@ layout: post
 published: true
 title: "Magicien trans"
 episode: "#15"
-summary: "Mika la Transeignante nous rejoint ! On discute avec elle d’une décision de justice importance pour les parent·es trans en France, Paw nous parle de Stardew Valley et de son magicien trans-friendly, et on s’enjaille sur la musique de Minecraft composée par une formidable meuf trans 🌾🏳️‍⚧️ "
+summary: "Mika la Transeignante nous rejoint ! On discute avec elle d’une décision de justice importante pour les parent·es trans en France, Paw nous parle de Stardew Valley et de son magicien trans-friendly, et on s’enjaille sur la musique de Minecraft composée par une formidable meuf trans 🌾🏳️‍⚧️ "
 permalink: /15/
 file: 'https://d3ctxlq1ktw2nl.cloudfront.net/staging/2022-2-27/40d6b881-fb4c-0c05-21e9-d19363c73551.mp3'
 ---
-<p><em>Mika la Transeignante nous rejoint ! On discute avec elle d’une décision de justice importance pour les parent·es trans en France, Paw nous parle de Stardew Valley et de son magicien trans-friendly, et on s’enjaille sur la musique de Minecraft composée par une formidable meuf trans 🌾🏳️‍⚧️ </em></p>
+<p><em>Mika la Transeignante nous rejoint ! On discute avec elle d’une décision de justice importante pour les parent·es trans en France, Paw nous parle de Stardew Valley et de son magicien trans-friendly, et on s’enjaille sur la musique de Minecraft composée par une formidable meuf trans 🌾🏳️‍⚧️ </em></p>
 
 <!--more-->
 
