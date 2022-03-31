@@ -11,7 +11,7 @@ file: 'https://d3ctxlq1ktw2nl.cloudfront.net/staging/2022-2-27/40d6b881-fb4c-0c0
 
 <!--more-->
 
-<p><strong>Présent-es :</strong> Mika (<a href=‘https://twitter.com/transeignante’><strong>@transeignante</strong></a>), Niléane (<a href="https://twitter.com/Nildeala"><strong>@Nildeala</strong></a>), Paw (<a href="https://twitter.com/PawLilith"><strong>@PawLilith</strong></a>), Jena (<a href="https://twitter.com/JenaPhamSelle"><strong>@JenaPhamSelle</strong></a>).</p>
+<p><strong>Présent-es :</strong> Mika (<a href="https://twitter.com/transeignante"><strong>@transeignante</strong></a>), Niléane (<a href="https://twitter.com/Nildeala"><strong>@Nildeala</strong></a>), Paw (<a href="https://twitter.com/PawLilith"><strong>@PawLilith</strong></a>), Jena (<a href="https://twitter.com/JenaPhamSelle"><strong>@JenaPhamSelle</strong></a>).</p>
 <p><strong>Durée : 1 heure 18 minutes</strong></p>
 <p><strong>Liens et ressources mentionnées</strong></p>
 <ul>
