@@ -11,18 +11,18 @@ file: 'https://d3ctxlq1ktw2nl.cloudfront.net/staging/2022-2-27/40d6b881-fb4c-0c0
 
 <!--more-->
 
-<p><strong>Présent-es :</strong> Mika (<a href=« https://twitter.com/transeignante »><strong>@transeignante</strong></a>), Niléane (<a href=« https://twitter.com/Nildeala »><strong>@Nildeala</strong></a>), Paw (<a href=« https://twitter.com/PawLilith »><strong>@PawLilith</strong></a>), Jena (<a href=« https://twitter.com/JenaPhamSelle »><strong>@JenaPhamSelle</strong></a>).</p>
+<p><strong>Présent-es :</strong> Mika (<a href=‘https://twitter.com/transeignante’><strong>@transeignante</strong></a>), Niléane (<a href="https://twitter.com/Nildeala"><strong>@Nildeala</strong></a>), Paw (<a href="https://twitter.com/PawLilith"><strong>@PawLilith</strong></a>), Jena (<a href="https://twitter.com/JenaPhamSelle"><strong>@JenaPhamSelle</strong></a>).</p>
 <p><strong>Durée : 1 heure 18 minutes</strong></p>
 <p><strong>Liens et ressources mentionnées</strong></p>
 <ul>
-  <li>Association Contact (<a href=« https://www.asso-contact.org/« >asso-contact.org</a>)</li>
-  <li>Stardew Valley (<a href=« https://www.stardewvalley.net/« >stardewvalley.net</a>)</li>
-  <li>Le magicien trans-friendly de Stardew Valley (<a href=« https://fr.stardewvalleywiki.com/Sorcier »>sur le Wiki du jeu</a>)</li>
-  <li>La réponse à une personne trans du développeur de Stardew Valley au sujet du changement de genre dans le jeu (<a href=« https://twitter.com/alexgreer04/status/1362154394037452801?s=28 »>sur Twitter</a>)</li>
-  <li>‘<em>La maternité biologique d’une femme trans reconnue pour la première fois en justice</em>’ (<a href=« https://tetu.com/2022/02/09/justice-trans-maternite-biologique-claire-femme-mere-transgenre-reconnue-premiere-fois-cour-appel-toulouse/« >article de TÊTU</a>)</li>
-  <li>Lena Raine (<a href=« https://fr.wikipedia.org/wiki/Lena_Raine »>sur Wikipedia</a>)</li>
-  <li>Céleste (jeu vidéo, <a href=« https://fr.wikipedia.org/wiki/Celeste_(jeu_vid%C3%A9o) »>sur Wikipedia</a>)</li>
-  <li>Livre : <em>Le Chœur des femmes</em>, de Martin Winckler (<a href=« https://fr.wikipedia.org/wiki/Le_Ch%C5%93ur_des_femmes »>sur Wikipedia</a>)</li>
+  <li>Association Contact (<a href="https://www.asso-contact.org/">asso-contact.org</a>)</li>
+  <li>Stardew Valley (<a href="https://www.stardewvalley.net/">stardewvalley.net</a>)</li>
+  <li>Le magicien trans-friendly de Stardew Valley (<a href="https://fr.stardewvalleywiki.com/Sorcier">sur le Wiki du jeu</a>)</li>
+  <li>La réponse à une personne trans du développeur de Stardew Valley au sujet du changement de genre dans le jeu (<a href="https://twitter.com/alexgreer04/status/1362154394037452801?s=28">sur Twitter</a>)</li>
+  <li>‘<em>La maternité biologique d’une femme trans reconnue pour la première fois en justice</em>’ (<a href="https://tetu.com/2022/02/09/justice-trans-maternite-biologique-claire-femme-mere-transgenre-reconnue-premiere-fois-cour-appel-toulouse/">article de TÊTU</a>)</li>
+  <li>Lena Raine (<a href="https://fr.wikipedia.org/wiki/Lena_Raine">sur Wikipedia</a>)</li>
+  <li>Céleste (jeu vidéo, <a href="https://fr.wikipedia.org/wiki/Celeste_(jeu_vid%C3%A9o)">sur Wikipedia</a>)</li>
+  <li>Livre : <em>Le Chœur des femmes</em>, de Martin Winckler (<a href="https://fr.wikipedia.org/wiki/Le_Ch%C5%93ur_des_femmes">sur Wikipedia</a>)</li>
   <li>Livre : <em>Le Genre expliqué à celles et ceux qui sont perdu·es</em>, de Marie Zafimehy et Aline Laurent-Mayard.</li>
 </ul>
 <p><strong>Musique</strong></p>
