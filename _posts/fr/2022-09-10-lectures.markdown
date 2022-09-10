@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: "ExisTransInter"
+title: "Lectures"
 episode: "#16"
 summary: "Louie a baladé son micro à l’ExisTransInter 2022, Malley nous fait découvrir une petite playlist transféminine, on parle de nos lectures trans de ces derniers mois, puis Louis et Charlie se confient sur leurs vécus de mec trans !"
 permalink: /16/
