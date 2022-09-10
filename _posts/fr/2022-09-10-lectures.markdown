@@ -3,11 +3,11 @@ layout: post
 published: true
 title: "Lectures"
 episode: "#16"
-summary: "Louie a baladé son micro à l’ExisTransInter 2022, Malley nous fait découvrir une petite playlist transféminine, on parle de nos lectures trans de ces derniers mois, puis Louis et Charlie se confient sur leurs vécus de mec trans !"
+summary: "Louie a baladé son micro à l’ExisTransInter 2022, Malley nous fait découvrir une petite playlist transféminine, on parle de nos lectures trans de ces derniers mois, puis Louie et Charlie se confient sur leurs vécus de mec trans !"
 permalink: /16/
 file: 'https://d3ctxlq1ktw2nl.cloudfront.net/staging/2022-8-9/284889316-22050-1-88a0871d82fc4.m4a'
 ---
-<p>Louie a baladé son micro à l’ExisTransInter 2022, Malley nous fait découvrir une petite playlist transféminine, on parle de nos lectures trans de ces derniers mois, puis Louis et Charlie se confient sur leurs vécus de mec trans !</p>
+<p>Louie a baladé son micro à l’ExisTransInter 2022, Malley nous fait découvrir une petite playlist transféminine, on parle de nos lectures trans de ces derniers mois, puis Louie et Charlie se confient sur leurs vécus de mec trans !</p>
 
 
 <!--more-->
