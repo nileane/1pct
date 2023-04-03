@@ -14,7 +14,7 @@ spotify: 'https://open.spotify.com/episode/61koeXw5dEM21062ZoXRtx'
 
 <!--more-->
 
-<p>Au programme :
+<p>Au programme :</p>
 	<ol>
   <li>Nouvelles du podcast</li>
 	<li>Le sport (Charlie)</li>
