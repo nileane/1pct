@@ -17,6 +17,11 @@ task :deploy do
    system "git push deploy master"
 end
 
+task :commit do
+   desc "commits changes + pushes to origin + deploys"
+   system "git add -A && git commit -m 'Updated' && git push origin master && git push deploy master"
+end
+
 task :serve do
    desc "runs jekyll server with autoregen enabled"
    system "bundle exec jekyll serve --watch"
