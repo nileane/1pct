@@ -14,12 +14,12 @@ end
 
 task :deploy do
    desc "deploys @ nileane@lly.fr:~/1pct-deploy"
-   system "git push deploy master"
+   system "git push origin master && git push deploy master"
 end
 
 task :commit do
-   desc "commits changes + pushes to origin + deploys"
-   system "git add -A && git commit -m 'Updated' && git push origin master && git push deploy master"
+   desc "commits changes"
+   system "git add -A && git commit -m 'Updated'"
 end
 
 task :serve do
