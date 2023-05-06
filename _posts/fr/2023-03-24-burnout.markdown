@@ -14,8 +14,8 @@ spotify: 'https://open.spotify.com/episode/61koeXw5dEM21062ZoXRtx'
 
 <!--more-->
 
-<p>Au programme :</p>
-	<ol>
+<p>L'équipe se réunit de nouveau enfin, presque un an plus tard, avec plein de bonnes résolutions ! Au programme :</p>
+<ol>
   <li>Nouvelles du podcast</li>
 	<li>Le sport (Charlie)</li>
 	<li>Musique : Si j’étais un homme de Diane Tell (Louie)</li>
