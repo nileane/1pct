@@ -6,11 +6,11 @@ episode: "#18"
 summary: "L'équipe se réunit de nouveau pour partager ses intérêts spécifiques."
 permalink: /18/
 file: 'https://d3ctxlq1ktw2nl.cloudfront.net/staging/2023-4-6/327947875-22050-1-940cd5aa86287.m4a'
-apple: ''
+apple: 'https://podcasts.apple.com/fr/podcast/un-podcast-trans/id1535381424?l=en&i=1000611951183'
 google: 'https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9kZDA3MzQvcG9kY2FzdC9yc3M/episode/MzFmNjNkODctMmY4Zi00NTIyLThlOWMtNGEyN2IzOGVlNGZi?sa=X&ved=0CAUQkfYCahcKEwjwz4SPvt_-AhUAAAAAHQAAAAAQAQ'
 spotify: 'https://open.spotify.com/episode/5VnlQg7mTtTk216u6otGDe?si=JfXU9IM-RTat-LHQxVl4ew'
 ---
-<p>L'équipe se réunit de nouveau pour partager ses intérêts spécifiques. </p>
+<p>L'équipe se réunit de nouveau pour partager ses intérêts spécifiques. Nintendo, Tarzan, jeux de rôles.</p>
 
 <!--more-->
 
