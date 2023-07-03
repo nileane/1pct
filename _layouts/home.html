@@ -14,13 +14,18 @@ home-post: "true"
 <section class="archive-post">
     <a href="{{ post.url }}">
     <div class="index">
-        <div>
-            <div class="episode-num"><span class="highlighted">Épisode {{ post.episode }}</span></div>
-            <h2>{{ post.title | replace: '<br>', '' }}</h2>
-            <time datetime='{{ post.date | date_to_xmlschema }}'><span style="font-weight:bold"></span> {% include date.html date=post.date %}</time>
+        <div class="miniature">
+            <div class="episode-num">
+                <span class="highlighted">Épisode {{ post.episode }}</span>
+            </div>
+            <img src="/images/art/{{ post.episode | replace: '#', ''}}.png" width="150" height="150">
         </div>
+        <div>
+           <h2>{{ post.title | replace: '<br>', '' }}</h2>
+            <time datetime='{{ post.date | date_to_xmlschema }}'><span style="font-weight:bold"></span> {% include date.html date=post.date %}</time>
+        
         <div class="excerpt">{{ post.excerpt | strip_html }}</div>
-    </div>
+    </div></div>
     </a>
 </section>
 {% endfor %}

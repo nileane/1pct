@@ -480,6 +480,7 @@ body > section > * {
   .introducing h2 {
       font-size: 2em;
       grid-column: 1 / 3;
+      margin-bottom: 0;
       grid-row: 1;
   }
   .introducing p:first-of-type {
@@ -511,7 +512,10 @@ ul.index {
     border-bottom: 1px solid rgba(0, 0, 0, 0.05);
 }
 .archive-post .index {
-    padding: 20px 0;
+    padding: 10px 0;
+}
+.archive-post .index > div {
+    flex:  50%   2;
 }
 .index li:last-child {
     border-bottom: none;
@@ -603,6 +607,11 @@ section.archive-post > a {
     padding-bottom: 1.6rem;
 }
 
+.archive-post .miniature {
+    position: relative;
+    margin-top: 0;
+}
+
 .archive-post a .index .excerpt {
     color: var(--fg-post-color);
     font-size: 90%;
@@ -611,6 +620,16 @@ section.archive-post > a {
     line-height: 1.3;
 }
 
+@media screen and (min-width:500px) {
+    .archive-post .index {
+        display: flex;
+        flex-flow: row wrap;
+    }
+    .archive-post a .index .excerpt {
+        padding-left: 10px;
+        margin-top: 0;
+    }
+}
 
 
 
