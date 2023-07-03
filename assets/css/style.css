@@ -625,6 +625,7 @@ section.archive-post > a {
         display: flex;
         flex-flow: row wrap;
     }
+    
     .archive-post a .index .excerpt {
         padding-left: 10px;
         margin-top: 0;
