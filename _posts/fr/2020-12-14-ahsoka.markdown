@@ -16,7 +16,7 @@ anchor: 'https://anchor.fm/1pct/episodes/Hors-Srie-1---Ahsoka-enoin1'
 
 <!--more-->
 
-<p><strong>Présent-es :</strong> Niléane (<a href="https://twitter.com/Nildeala">@Nildeala</a>), Jena (<a href="https://twitter.com/JenaPhamSelle">@JenaPhamSelle</a>), et Pawline (<a href="https://twitter.com/PawLilith">@PawLilith</a>).</p>
+<p><strong>Présent-es :</strong> Niléane (<a href="https://twitter.com/Nildeala">@Nildeala</a>), Jena (<a href="https://eldritch.cafe/@jena">@Jena</a>), et Paw (<a href="https://eldritch.cafe/@paw">@Paw</a>).</p>
 <p><strong>Durée : 60 minutes.</strong></p>
 <p><strong>Liens et ressources mentionnées</strong></p>
 <ul>

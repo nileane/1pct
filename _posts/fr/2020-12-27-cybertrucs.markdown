@@ -16,7 +16,7 @@ pocketcasts: 'https://pca.st/episode/3f2fe6ec-8458-403d-8858-92ae6a63d2a5'
 
 <!--more-->
 
-<p><strong>Présent-es :</strong> Niléane (<a href="https://twitter.com/Nildeala">@Nildeala</a>), Jena (<a href="https://twitter.com/JenaPhamSelle">@JenaPhamSelle</a>), Cat, et Pawline (<a href="https://twitter.com/PawLilith">@PawLilith</a>).</p>
+<p><strong>Présent-es :</strong> Niléane (<a href="https://twitter.com/Nildeala">@Nildeala</a>), Jena (<a href="https://eldritch.cafe/@jena">@Jena</a>), Cat, et Paw (<a href="https://eldritch.cafe/@paw">@Paw</a>).</p>
 <p><strong>Durée : 1h12</strong></p>
 <p><strong>Liens et ressources mentionnées</strong></p>
 <ul>

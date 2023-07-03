@@ -15,7 +15,7 @@ Entre 2 astuces pour croiser des mecs dans la rue, on brainstorm sur nos réappr
 
 <!--more-->
 
-**Présent-es :** Jena ([@JenaPhamSelle](https://twitter.com/JenaPhamSelle)), Merry ([@Merry_postfurry](https://twitter.com/Merry_postfurry)), Niléane ([@Nildeala](https://twitter.com/Nildeala)), Louie ([@LouieOnTheMoon](https://twitter.com/LouieOnTheMoon)) et Malley ([@ouiMalley](https://twitter.com/ouiMalley)).
+**Présent-es :** Jena ([@Jena](https://eldritch.cafe/@jena)), Merry ([@Merry_postfurry](https://twitter.com/Merry_postfurry)), Niléane ([@Nildeala](https://twitter.com/Nildeala)), Louie ([@LouieOnTheMoon](https://mastodon.gamedev.place/@LouieMoon)) et Malley ([@ouiMalley](https://twitter.com/ouiMalley)).
 
 **Durée : 1 heure 16 minutes**
 

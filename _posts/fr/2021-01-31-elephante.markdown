@@ -13,7 +13,7 @@ apple: 'https://podcasts.apple.com/fr/podcast/un-podcast-trans/id1535381424#epis
 
 <!--more-->
 
-<p><strong>Présent-es :</strong> Niléane (<a href="https://twitter.com/Nildeala">@Nildeala</a>), Jena (<a href="https://twitter.com/JenaPhamSelle">@JenaPhamSelle</a>), Merry (<a href="https://twitter.com/Merry_postfurry">@Merry_postfurry</a>), Malley, Tiphaine et Pawline (<a href="https://twitter.com/PawLilith">@PawLilith</a>).</p>
+<p><strong>Présent-es :</strong> Niléane (<a href="https://twitter.com/Nildeala">@Nildeala</a>), Jena (<a href="https://eldritch.cafe/@jena">@Jena</a>), Merry (<a href="https://twitter.com/Merry_postfurry">@Merry_postfurry</a>), Malley, Tiphaine et Paw (<a href="https://eldritch.cafe/@paw">@Paw</a>).</p>
 <p><strong>Durée : 53 minutes</strong></p>
 <p><strong>Liens et ressources mentionnées</strong></p>
 <ul>

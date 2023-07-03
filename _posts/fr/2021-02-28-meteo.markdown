@@ -15,7 +15,7 @@ spotify: 'https://open.spotify.com/episode/5FkRVHLY5VIHiwW7O0AOJv?si=n26pJZ9kRtO
 
 <!--more-->
 
-<p><strong>Présent-es :</strong> Niléane (<a href="https://twitter.com/Nildeala">@Nildeala</a>), Tieffeline (<a href="https://twitter.com/Tieffeline"><strong>@Tieffeline</strong></a>), Jena (<a href="https://twitter.com/JenaPhamSelle">@JenaPhamSelle</a>), et Pawline (<a href="https://twitter.com/PawLilith">@PawLilith</a>).</p>
+<p><strong>Présent-es :</strong> Niléane (<a href="https://twitter.com/Nildeala">@Nildeala</a>), Tieffeline (<a href="https://twitter.com/Tieffeline"><strong>@Tieffeline</strong></a>), Jena (<a href="https://eldritch.cafe/@jena">@Jena</a>), et Paw (<a href="https://eldritch.cafe/@paw">@Paw</a>).</p>
 <p><strong>Durée : 1 heure</strong></p>
 <p><strong>Liens et ressources mentionnées</strong></p>
 <ul>

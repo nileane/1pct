@@ -12,7 +12,7 @@ file: 'https://d3ctxlq1ktw2nl.cloudfront.net/staging/2021-9-15/08b720f9-8120-9a7
 <!--more-->
 
 <p><strong>Avertissement de contenu (Content Warning) :</strong> on parle d'opérations chirurgicales, avec des détails qui peuvent être un petit peu gore, même si on s'est retenu·es. N'hésitez pas à passer les chapitres concernés si cela peut vous gêner :)</p>
-<p><strong>Présent-es :</strong> Jena (<a href="https://twitter.com/JenaPhamSelle"><strong>@JenaPhamSelle</strong></a>), Paw (<a href="https://twitter.com/PawLilith"><strong>@PawLilith</strong></a>), Niléane (<a href="https://twitter.com/Nildeala"><strong>@Nildeala</strong></a>), Cat, Merry (<a href="https://twitter.com/merry_postfurry"><strong>@Merry_postfurry</strong></a>), et Malley (<a href="https://twitter.com/ouiMalley"><strong>@ouiMalley</strong></a>).</p>
+<p><strong>Présent-es :</strong> Jena (<a href="https://eldritch.cafe/@jena"><strong>@Jena</strong></a>), Paw (<a href="https://eldritch.cafe/@paw"><strong>@Paw</strong></a>), Niléane (<a href="https://twitter.com/Nildeala"><strong>@Nildeala</strong></a>), Cat, Merry (<a href="https://twitter.com/merry_postfurry"><strong>@Merry_postfurry</strong></a>), et Malley (<a href="https://twitter.com/ouiMalley"><strong>@ouiMalley</strong></a>).</p>
 <p><strong>Durée : 1 heure 34 minutes</strong></p>
 <p><strong>Liens et ressources mentionnées</strong></p>
 <ul>
