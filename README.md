@@ -8,7 +8,7 @@ gem install bundler
 
 Install needed dependencies:
 ```
-cd 1pct.fr/
+cd ~/~1pct.fr
 bundle install
 ```
 

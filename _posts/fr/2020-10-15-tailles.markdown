@@ -15,7 +15,7 @@ file: 'https://s3-us-west-2.amazonaws.com/anchor-audio-bank/staging/2020-9-14/11
 
 <p><strong>Présent-es : </strong>Niléane, Jena, Malley, Cat et Tiphaine.</p>
 <p><strong>Durée : 1h 10mn</strong></p>
-<p><strong>Note : </strong>Nous avons eu des soucis avec le micro de Jena, qui génère beaucoup de bruit de fond malgré le montage. Un Podcast Trans est pour nous tou-te-s un challenge technique et d'exercice, avec un peu de force la qualité sera meilleure avec chaque nouvel épisode :D</p>
+<p><strong>Note : </strong>Nous avons eu des soucis avec le micro de Jena, qui génère beaucoup de bruit de fond malgré le montage. Un Podcast Trans est pour nous tou-tes un challenge technique et d'exercice, avec un peu de force la qualité sera meilleure avec chaque nouvel épisode :D</p>
 
 <p><strong>Liens et ressources mentionnées</strong></p>
 <ul>

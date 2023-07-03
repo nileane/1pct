@@ -7,15 +7,14 @@ summary: "Nous invitons Séraphin à parler de militantisme de terrain, on parle
 permalink: /19/
 file: 'https://d3ctxlq1ktw2nl.cloudfront.net/staging/2023-6-2/337757358-22050-1-1653940b0b965.m4a'
 apple: ''
-google: ''
-spotify: ''
+google: 'https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9kZDA3MzQvcG9kY2FzdC9yc3M/episode/OGRhNDQzNWYtOGVhNS00MzIyLWI0YzctOGI2NmM0NmE5ZjFk?sa=X&ved=0CAUQkfYCahcKEwiwk-7An_H_AhUAAAAAHQAAAAAQAQ'
+spotify: 'https://open.spotify.com/episode/3WnvyjhqYSIJM5X1iqs8mb?si=Yw6KgvgLTmmhMGQxqUoEbg'
 ---
 <p>Nous invitons Séraphin à parler de militantisme de terrain, on parle botanique, bout du monde, binder, poèmes et pin-up daddies.</p>
 
 <!--more-->
 
-
-<p>Nous invitons Séraphin à parler de militantisme de terrain, on parle botanique, bout du monde, binder, poèmes et pin-up daddies. Au programme :</p>
+<p>Au programme :</p>
 
 <p><strong>Chapitres</strong></p>
 <ul>

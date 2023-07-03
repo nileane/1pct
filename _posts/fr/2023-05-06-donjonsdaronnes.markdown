@@ -15,7 +15,7 @@ spotify: 'https://open.spotify.com/episode/5VnlQg7mTtTk216u6otGDe?si=JfXU9IM-RTa
 <!--more-->
 
 
-<p>L'équipe se réunit de nouveau pour partager ses intérêts spécifiques. Au programme :</p>
+<p>Au programme :</p>
 <ol>
   <li>introduction</li>
 	<li>Personnages trans chez Nintendo (Jena)</li>
