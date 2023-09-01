@@ -49,8 +49,8 @@ Paw (<a href="https://eldritch.cafe/@paw"><strong>@Paw@eldritch.cafe</strong></a
   <li>Jena :
     <ul>
       <li><a href="https://fr.wikipedia.org/wiki/Hans_Christian_Andersen">Hans Christian Andersen</a></li>
-      <li><a href="https://en.wikipedia.org/wiki/Charles_Alexander,_Grand_Duke_of_Saxe-Weimar-Eisenach#/media/File:Charles_Alexander_(1818-1901).jpg">son prince héritier</a></li>
-      <li><a href="https://en.wikipedia.org/wiki/The_Little_Mermaid_(statue)">La statue de la petite sirène dans le port de Copenhague</a></li>
+      <li><a href="https://en.wikipedia.org/wiki/Charles_Alexander,_Grand_Duke_of_Saxe-Weimar-Eisenach#/media/File:Charles_Alexander_(1818-1901).jpg">son beau prince héritier</a></li>
+      <li><a href="https://en.wikipedia.org/wiki/The_Little_Mermaid_(statue)">La statue de la Petite Sirène dans le port de Copenhague</a></li>
     </ul>
   </li>
   <li>Mika :

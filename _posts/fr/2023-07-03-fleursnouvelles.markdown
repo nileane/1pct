@@ -69,7 +69,7 @@ Séraphin (<a href="https://linktr.ee/avisdetempete"><strong>militant écolo que
   <li>Jena :
     <ul>
       <li><a href="https://letsqueerthingsup.com/2017/11/30/maybe-being-transgender-wasnt-a-mistake/">Maybe being transgender wasn't a mistake</a> by <a href="http://www.samdylanfinch.com/">Sam Dylan Finch</a>.</li>
-      <li><a href="https://youtu.be/cD_tjkpEVvg">You Can Sleep While I Drive by Melissa Etheridge & Jewel</a></li>
+      <li><a href="https://youtu.be/cD_tjkpEVvg">You Can Sleep While I Drive by Melissa Etheridge & Jewel (même si on n'en a pas parlé)</a></li>
      <li><a href="https://www.tintin.com/fr/characters/seraphin-lampion">Séraphin Lampion</a></li>
     </ul>
   </li>
