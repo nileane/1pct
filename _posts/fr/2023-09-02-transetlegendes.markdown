@@ -6,7 +6,7 @@ episode: "#21"
 summary: "Dans l'épisode 20 on avait promis trois sujets mais la vie a pris de la place ! Voici donc des jolies histoires sur le petit peuple, les aventures de Charlie en Finlande, la transidentité de Hans Christian Andersen, et Jadzia Dax, icône queer dans Star Trek."
 permalink: /21/
 file: 'https://d3ctxlq1ktw2nl.cloudfront.net/staging/2023-8-1/345385225-22050-1-08dc7732d6767.m4a'
-apple: ''
+apple: 'https://podcasts.apple.com/fr/podcast/21-trans-légendes/id1535381424?i=1000626512798'
 google: 'https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9kZDA3MzQvcG9kY2FzdC9yc3M/episode/NWU0YjgyN2YtN2UwMy00NTIxLTk2OTgtMGViY2UyMjVhOTY4?sa=X&ved=0CAUQkfYCahcKEwjgkpSMx4qBAxUAAAAAHQAAAAAQAQ'
 spotify: 'https://open.spotify.com/episode/02leMJvpTRA1qu6mlA6lct'
 ---

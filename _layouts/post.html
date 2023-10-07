@@ -24,7 +24,7 @@ layout: default
 
         <a href="{% if page.overcast %}{{ page.overcast }}{% else %}{{ site.overcast }}{% endif %}" class="button overcast"><span class="icon-overcast"></span> Overcast</a>
 
-        <p><time datetime='{{ page.date | date_to_xmlschema }}'><span style="font-weight:bold"></span>// Publié le {% include date.html date=page.date %}</time></p>
+        <p><time datetime='{{ page.date | date_to_xmlschema }}'><span style="font-weight:bold"></span>Publié le {% include date.html date=page.date %}</time></p>
 
         {{ content }}
     </div>
