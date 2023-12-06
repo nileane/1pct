@@ -3,15 +3,15 @@ layout: post
 published: true
 title: "Magicien trans"
 episode: "#15"
-summary: "Mika la Transeignante nous rejoint ! On discute avec elle d’une décision de justice importante pour les parent·es trans en France, Paw nous parle de Stardew Valley et de son magicien trans-friendly, et on s’enjaille sur la musique de Minecraft composée par une formidable meuf trans 🌾🏳️‍⚧️ "
+summary: "Mieke la Transeignante nous rejoint ! On discute avec elle d’une décision de justice importante pour les parent·es trans en France, Paw nous parle de Stardew Valley et de son magicien trans-friendly, et on s’enjaille sur la musique de Minecraft composée par une formidable meuf trans 🌾🏳️‍⚧️ "
 permalink: /15/
 file: 'https://d3ctxlq1ktw2nl.cloudfront.net/staging/2022-2-27/40d6b881-fb4c-0c05-21e9-d19363c73551.mp3'
 ---
-<p><em>Mika la Transeignante nous rejoint ! On discute avec elle d’une décision de justice importante pour les parent·es trans en France, Paw nous parle de Stardew Valley et de son magicien trans-friendly, et on s’enjaille sur la musique de Minecraft composée par une formidable meuf trans 🌾🏳️‍⚧️ </em></p>
+<p><em>Mieke la Transeignante nous rejoint ! On discute avec elle d’une décision de justice importante pour les parent·es trans en France, Paw nous parle de Stardew Valley et de son magicien trans-friendly, et on s’enjaille sur la musique de Minecraft composée par une formidable meuf trans 🌾🏳️‍⚧️ </em></p>
 
 <!--more-->
 
-<p><strong>Présent-es :</strong> Mika (<a href="https://eldritch.cafe/@transeignante"><strong>@transeignante</strong></a>), Niléane (<a href="https://twitter.com/Nildeala"><strong>@Nildeala</strong></a>), Paw (<a href="https://eldritch.cafe/@jena"><strong>@Jena</strong></a>).</p>
+<p><strong>Présent-es :</strong> Mieke (<a href="https://eldritch.cafe/@transeignante"><strong>@transeignante</strong></a>), <strong>Niléane</strong> (<a href="https://twitter.com/Nildeala">@Nildeala</a>), Paw (<a href="https://eldritch.cafe/@jena"><strong>@Jena</strong></a>).</p>
 <p><strong>Durée : 1 heure 18 minutes</strong></p>
 <p><strong>Liens et ressources mentionnées</strong></p>
 <ul>
@@ -32,9 +32,9 @@ file: 'https://d3ctxlq1ktw2nl.cloudfront.net/staging/2022-2-27/40d6b881-fb4c-0c0
 </ul>
 <p><strong>Chapitres</strong></p>
 <ul>
-  <li><strong>00:00:00 - </strong>Pre-show : Mika et les LEGO</li>
+  <li><strong>00:00:00 - </strong>Pre-show : Mieke et les LEGO</li>
   <li><strong>00:04:48 - </strong>Introduction</li>
-  <li><strong>00:07:36 - </strong>Mika, la Transeignante</li>
+  <li><strong>00:07:36 - </strong>Mieke, la Transeignante</li>
   <li><strong>00:15:44 - </strong>Claire et la Cour d’Appel de Toulouse</li>
   <li><strong>00:33:28 - </strong>Wiki Trans et Promotion Canapé</li>
   <li><strong>00:36:33 - </strong>Stardew Valley said trans rights</li>

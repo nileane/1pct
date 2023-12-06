@@ -14,13 +14,15 @@ spotify: 'https://open.spotify.com/episode/5VnlQg7mTtTk216u6otGDe?si=JfXU9IM-RTa
 
 <!--more-->
 
+<p><strong>Teaser :</strong></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TEM1PP8icSY?si=cbaQsmF8shRA1p1k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <p>Au programme :</p>
 <ol>
   <li>introduction</li>
 	<li>Personnages trans chez Nintendo (Jena)</li>
 	<li>Musique : Le Tarzan de Disney (Louie)</li>
-	<li>Jeux de rôles (Mika)</li>
+	<li>Jeux de rôles (Mieke)</li>
   <li>conclusion</li>
 </ol>
 <p>Notre tout beau compte Fediverse / Mastodon : <a href="https://podcasts.social/@unpodcasttrans"><strong>https://podcasts.social/@unpodcasttrans</strong></a>.</p>
@@ -30,10 +32,10 @@ spotify: 'https://open.spotify.com/episode/5VnlQg7mTtTk216u6otGDe?si=JfXU9IM-RTa
 
 
 <p><strong>Présent·es :</strong> 
-Charlie (<a href="https://twitter.com/evilnordlys"><strong>@evilnordlys</strong></a>),  
-Jena (<a href="https://eldritch.cafe/@jena"><strong>@jena@eldritch.cafe</strong></a>), 
-Louie (<a href="https://mastodon.gamedev.place/@LouieMoon"><strong>@LouieMoon@mastodon.gamedev.place</strong></a>) et  
-Mika (<a href="https://eldritch.cafe/@transeignante"><strong>@transeignante@eldritch.cafe</strong></a>).</p> 
+<strong>Charlie</strong> (<a href="https://twitter.com/evilnordlys">@evilnordlys</a>),  
+<strong>Jena</strong> (<a href="https://eldritch.cafe/@jena">@jena@eldritch.cafe</a>), 
+<strong>Louie</strong> (<a href="https://mastodon.gamedev.place/@LouieMoon">@LouieMoon@mastodon.gamedev.place</a>) et  
+<strong>Mieke</strong> (<a href="https://eldritch.cafe/@transeignante">@transeignante@eldritch.cafe</a>).</p> 
 
 <p><strong>Durée :</strong> 1 heure 13 minutes</p>
 
@@ -62,6 +64,6 @@ Mika (<a href="https://eldritch.cafe/@transeignante"><strong>@transeignante@eldr
   <li><strong>00:00:00 - </strong>Nouvelles du podcast</li>
   <li><strong>00:11:12 - </strong>Personnages trans chez Nintendo (Jena)</li>
   <li><strong>00:26:52 - </strong>Musique : Le Tarzan de Disney (Louie)</li>
-  <li><strong>00:46:13 - </strong>Jeux de rôles (Mika)</li>
+  <li><strong>00:46:13 - </strong>Jeux de rôles (Mieke)</li>
   <li><strong>01:07:42 - </strong>Conclusions</li>
 </ul>

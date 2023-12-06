@@ -15,7 +15,12 @@ file: 'https://d3ctxlq1ktw2nl.cloudfront.net/staging/2021-4-30/bf7b57c9-945f-f9c
 
 <!--more-->
 
-<p><strong>Présent-es :</strong> Niléane (<a href="https://twitter.com/Nildeala"><strong>@Nildeala</strong></a>), Louie (<a href="https://mastodon.gamedev.place/@LouieMoon"><strong>@LouieOnTheMoon</strong></a>), Jena (<a href="https://eldritch.cafe/@jena"><strong>@Jena</strong></a>), Paw (<a href="https://eldritch.cafe/@paw"><strong>@Paw</strong></a>), et Malley.</p>
+<p><strong>Présent-es :</strong> 
+<strong>Niléane</strong> (<a href="https://twitter.com/Nildeala">@Nildeala</a>), 
+<strong>Louie</strong> (<a href="https://mastodon.gamedev.place/@LouieMoon">@LouieMoon</a>), 
+<strong>Jena</strong> (<a href="https://eldritch.cafe/@jena">@Jena</a>), 
+<strong>Paw</strong> (<a href="https://eldritch.cafe/@paw">@Paw</a>), et 
+Malley.</p>
 <p><strong>Durée : 1 heure 18 minutes</strong></p>
 <p><strong>Liens et ressources mentionnées</strong></p>
 <ul>

@@ -1,0 +1,67 @@
+---
+layout: post
+published: true
+title: "X-Men, X-Women & X-Enbies"
+episode: "#23"
+summary: "Charlie a un sujet de ouf sur X-Men 2 : Logan est kinky. + Les hyènes + Rina Sawayama"
+permalink: /23/
+file: 'https://d3ctxlq1ktw2nl.cloudfront.net/staging/2023-10-19/356204219-44100-2-a6efe9e471516.m4a'
+apple: 'https://podcasts.apple.com/fr/podcast/un-podcast-trans/id1535381424?l=en&i=1000635293359'
+google: 'https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9kZDA3MzQvcG9kY2FzdC9yc3M/episode/NDJjY2JlZjItZTA4ZC00NDZlLTliMTItNDY5OTE2ZmU4Mzcx?sa=X&ved=0CAUQkfYCahcKEwj4wuCw6M6CAxUAAAAAHQAAAAAQAQ'
+spotify: 'https://open.spotify.com/episode/4rN7bjMwwA5nNKgKNu2tHL?si=AsBEuxeiSWWXPm7afoI0Iw'
+anchor: 'https://podcasters.spotify.com/pod/show/1pct/episodes/23---X-Men--X-Women--X-Enbies-e2c45fm'
+
+---
+<p>Charlie a un sujet de ouf sur X-Men 2 : Logan est kinky.</p>
+
+<!--more-->
+
+<p><strong>Teaser :</strong></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8bf_rCCK3WA?si=_-qvU9y-dU2fsCvj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<ul>
+ <li>Le sujet le plus rentable : on riffe pendant 30 minutes à propos d’une scène de 7 secondes. Mystique / Raven trans, Diablo trans, Logan trans. Trans women are ex-men.</li>
+ <li>Mieke parle du sexe des hyènes</li>
+ <li>Louie nous fait découvrir Rina Sawayama et crée de nouvelles addictions.</li>
+</ul>
+
+
+<p>Notre  compte Fediverse / Mastodon : <a href="https://podcasts.social/@unpodcasttrans"><strong>https://podcasts.social/@unpodcasttrans</strong></a> et <a href="https://linktr.ee/1pct"><strong>nos autres liens</strong></a>. <a href="http://nre.fm">NRE : Nouvelles Radios Euphoriques</a> • Production 🎛️ de podcasts 🎧 éducatifs 📚 et joyeux 🎉</p>
+
+<p><strong>Présent·es :</strong> 
+<strong>Charlie</strong> (<a href="https://twitter.com/evilnordlys">@evilnordlys</a>),  
+<strong>Jena</strong> (<a href="https://eldritch.cafe/@jena">@jena@eldritch.cafe</a>), 
+<strong>Louie</strong> (<a href="https://mastodon.gamedev.place/@LouieMoon">@LouieMoon@mastodon.gamedev.place</a>),  
+<strong>Mieke</strong> (<a href="https://eldritch.cafe/@transeignante">@transeignante@eldritch.cafe</a>). 
+
+
+<p><strong>Durée :</strong> 01:18:34</p>
+
+<p><strong>Liens et ressources mentionnées</strong></p>
+<ul>
+  <li>Charlie :
+    <ul>
+      <li>Panayotis Pascot, <a href="https://www.placedeslibraires.fr/livre/9782234092525-la-prochaine-fois-que-tu-mordras-la-poussiere-panayotis-pascot/"><em>La prochaine fois que tu mordras la poussière</em></a></li>
+    </ul>
+  </li>
+  <li>Jena :
+   <ul>
+     <li><a href="https://maxfractal.substack.com/p/becoming-max-fractal">Max Fractal</a></li>
+     <li>Jul Maroh & Sabrina Calvo, <a href="https://www.placedeslibraires.fr/livre/9782808211901-hacker-la-peau-sabrina-calvo-jul-maroh/"><em>Hacker la peau</em></a></li>
+   </ul>
+  </li>
+  <li>Louie :
+    <ul>
+    <li>Rina Sawayama, <a href="https://youtu.be/uv5i5yg-zNc"><em>Comme Des Garçons (Like the Boys)</em></a></li>
+     <li>Rina Sawayama, <a href="https://youtu.be/OLXtc2OSrLQ"><em>Bad Friend</em></a></li>
+     <li>Rina Sawayama, <a href="https://youtu.be/ekauErew4Bs"><em>This Hell</em></a></li>
+     <li>Lizzie Crowdagger, <a href="https://www.placedeslibraires.fr/livre/9791092903065-une-autobiographie-transsexuelle-avec-des-vampires-lizzie-crowdagger/"><em>Une autobiographie transsexuelle (avec des vampires)</em></a></li>
+     </ul>
+  </li>
+  <li>Mieke :
+    <ul>
+    <li>Leïla Fréger Kneppert, <a href="https://www.placedeslibraires.fr/livre/9782490855568-le-bleu-au-ventre-leila-freger-kneppert/"><em>Le bleu au ventre</em></a></li>
+    </ul>
+  </li>
+</ul>

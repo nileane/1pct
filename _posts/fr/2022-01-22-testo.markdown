@@ -11,7 +11,13 @@ file: 'https://d3ctxlq1ktw2nl.cloudfront.net/staging/2022-0-21/1af6fffd-b41e-70c
 
 <!--more-->
 
-<p><strong>Présent-es :</strong> Niléane (<a href="https://twitter.com/Nildeala"><strong>@Nildeala</strong></a>), Charlie (<a href="https://twitter.com/evilnordlys"><strong>@evilnordlys</strong></a>), Paw (<a href="https://eldritch.cafe/@paw"><strong>@Paw</strong></a>), Malley (<a href="https://twitter.com/ouiMalley"><strong>@ouiMalley</strong></a>) Jena (<a href="https://eldritch.cafe/@jena"><strong>@Jena</strong></a>), Louie (<a href="https://mastodon.gamedev.place/@LouieMoon"><strong>@LouieOnTheMoon</strong></a>).</p>
+<p><strong>Présent-es :</strong> 
+<strong>Niléane (<a href="https://twitter.com/Nildeala">@Nildeala</strong></a>), 
+<strong>Charlie</strong> (<a href="https://twitter.com/evilnordlys">@evilnordlys</a>), 
+<strong>Paw</strong> (<a href="https://eldritch.cafe/@paw">@Paw</a>), 
+<strong>Malley</strong> (<a href="https://twitter.com/ouiMalley">@ouiMalley</a>), 
+<strong>Jena</strong> (<a href="https://eldritch.cafe/@jena">@Jena</a>), 
+<strong>Louie</strong> (<a href="https://mastodon.gamedev.place/@LouieMoon">@LouieMoon</a>).</p>
 <p><strong>Durée : 1 heure 38 minutes</strong></p>
 <p><strong>Liens et ressources mentionnées</strong></p>
 <ul>

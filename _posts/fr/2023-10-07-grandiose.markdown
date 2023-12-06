@@ -14,8 +14,7 @@ spotify: 'https://open.spotify.com/episode/7GXuowKGSGTBd3VBlfpU5n?si=KGZMfmEGQue
 
 <!--more-->
 
-<p>Séraphin nous raconte son expérience de la Baudrière, mythique squat TPG qui a été expulsé par la police et la mairie communiste de Montreuil. Louie nous parle de Grandiose de Pomme, Mieke et Jena en profitent pour parler de nos tentatives de parentalité contrariée, et aussi nos euphories de mamans. C'est intense et triste et joyeux comme une chanson de Pomme.<br>
-Au programme :</p>
+<p>Séraphin nous raconte son expérience de la Baudrière, mythique squat TPG qui a été expulsé par la police et la mairie communiste de Montreuil. Louie nous parle de Grandiose de Pomme, Mieke et Jena en profitent pour parler de nos tentatives de parentalité contrariée, et aussi nos euphories de mamans. C'est intense et triste et joyeux comme une chanson de Pomme.</p>
 
 
 <p>Notre  compte Fediverse / Mastodon : <a href="https://podcasts.social/@unpodcasttrans"><strong>https://podcasts.social/@unpodcasttrans</strong></a> et <a href="https://linktr.ee/1pct"><strong>nos autres liens</strong></a>. <a href="http://nre.fm">NRE : Nouvelles Radios Euphoriques</a> • Production 🎛️ de podcasts 🎧 éducatifs 📚 et joyeux 🎉</p>

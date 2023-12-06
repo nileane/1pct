@@ -3,8 +3,8 @@
 name: Un Podcast Trans
 url: https://1pct.fr
 
-author: Charlie, Jena, Louie, Malley, Mika, Paw, et Séraphin
-description: On bavarde, on se découvre, et puis on est trans ✨
+author: NRE.fm - Nouvelles Radios Euphoriques
+description: On bavarde, on partage nos intérêts spécifiques, et on est trans ✨
 title: Un Podcast Trans
 twitter_username: unpodcasttrans
 
@@ -20,5 +20,7 @@ rss: "https://anchor.fm/s/dd0734/podcast/rss"
 anchor: "https://anchor.fm/1pct"
 apple: "https://podcasts.apple.com/fr/podcast/un-podcast-trans/id1535381424"
 spotify: "https://open.spotify.com/show/3gyRvCPxc41Hq8zMPRNM1o"
+podcasters: "https://podcasters.spotify.com/pod/show/1pct"
 overcast: "https://overcast.fm/itunes1535381424"
 pocketcasts: "http://pca.st/itunes/1535381424"
+google: "https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy9kZDA3MzQvcG9kY2FzdC9yc3M="

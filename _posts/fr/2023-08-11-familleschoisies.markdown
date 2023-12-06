@@ -35,10 +35,10 @@ spotify: 'https://open.spotify.com/episode/0JEhNrPKaBjcCMG0SSxJU6?si=5BJxqEMMRW-
 <p>Notre  compte Fediverse / Mastodon : <a href="https://podcasts.social/@unpodcasttrans"><strong>https://podcasts.social/@unpodcasttrans</strong></a> et <a href="https://linktr.ee/1pct"><strong>nos autres liens</strong></a>.</p>
 
 <p><strong>Présent·es :</strong> 
-Charlie (<a href="https://twitter.com/evilnordlys"><strong>@evilnordlys</strong></a>),  
-Jena (<a href="https://eldritch.cafe/@jena"><strong>@jena@eldritch.cafe</strong></a>), 
-Louie (<a href="https://mastodon.gamedev.place/@LouieMoon"><strong>@LouieMoon@mastodon.gamedev.place</strong></a>),  
-Mika (<a href="https://eldritch.cafe/@transeignante"><strong>@transeignante@eldritch.cafe</strong></a>).</p> 
+<strong>Charlie</strong> (<a href="https://twitter.com/evilnordlys">@evilnordlys</a>),  
+<strong>Jena</strong> (<a href="https://eldritch.cafe/@jena">@jena@eldritch.cafe</a>), 
+<strong>Louie</strong> (<a href="https://mastodon.gamedev.place/@LouieMoon">@LouieMoon@mastodon.gamedev.place</a>),  
+<strong>Mieke</strong> (<a href="https://eldritch.cafe/@transeignante">@transeignante@eldritch.cafe</a>).</p> 
 
 <p><strong>Durée :</strong> 01:30:38</p>
 

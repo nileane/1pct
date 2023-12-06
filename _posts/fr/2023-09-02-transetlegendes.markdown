@@ -31,10 +31,10 @@ spotify: 'https://open.spotify.com/episode/02leMJvpTRA1qu6mlA6lct'
 <p>Notre  compte Fediverse / Mastodon : <a href="https://podcasts.social/@unpodcasttrans"><strong>https://podcasts.social/@unpodcasttrans</strong></a> et <a href="https://linktr.ee/1pct"><strong>nos autres liens</strong></a>. <a href="http://nre.fm">NRE : Nouvelles Radios Euphoriques</a> • 🎛️ de podcasts 🎧 éducatifs 📚 et joyeux 🎉</p>
 
 <p><strong>Présent·es :</strong> 
-Charlie (<a href="https://twitter.com/evilnordlys"><strong>@evilnordlys</strong></a>),  
-Jena (<a href="https://eldritch.cafe/@jena"><strong>@jena@eldritch.cafe</strong></a>), 
-Mika (<a href="https://eldritch.cafe/@transeignante"><strong>@transeignante@eldritch.cafe</strong></a>), et 
-Paw (<a href="https://eldritch.cafe/@paw"><strong>@Paw@eldritch.cafe</strong></a>).</p> 
+<strong>Charlie</strong> (<a href="https://twitter.com/evilnordlys">@evilnordlys</a>),  
+<strong>Jena</strong> (<a href="https://eldritch.cafe/@jena">@jena@eldritch.cafe</a>), 
+<strong>Mieke</strong> (<a href="https://eldritch.cafe/@transeignante">@transeignante@eldritch.cafe</a>), et 
+<strong>Paw</strong> (<a href="https://eldritch.cafe/@paw">@Paw@eldritch.cafe</a>).</p> 
 
 <p><strong>Durée :</strong> 01:25:37</p>
 
@@ -53,7 +53,7 @@ Paw (<a href="https://eldritch.cafe/@paw"><strong>@Paw@eldritch.cafe</strong></a
       <li><a href="https://en.wikipedia.org/wiki/The_Little_Mermaid_(statue)">La statue de la Petite Sirène dans le port de Copenhague</a></li>
     </ul>
   </li>
-  <li>Mika :
+  <li>Mieke :
     <ul>
       <li><a href="https://fr.wikipedia.org/wiki/Jadzia_Dax">Jadzia Dax</a></li>
       <li><a href="https://www.youtube.com/watch?v=ED5V1KCqbpU">La vidéo de l'extrait de Star Trek Deep Space 9 cité dans l'épisode</a></li>
